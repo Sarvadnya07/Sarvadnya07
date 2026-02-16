@@ -5,7 +5,7 @@
 <h1 align="center">Sarvadnya Sonkambale</h1>
 
 <p align="center">
-AI Engineering Undergraduate • GenAI Systems Builder • Security-First Engineer
+AI Engineering Undergraduate • GenAI Application Builder • Security-First Engineer
 </p>
 
 <p align="center">
@@ -21,9 +21,15 @@ AI Engineering Undergraduate • GenAI Systems Builder • Security-First Engine
 
 ## ENGINEERING IDENTITY
 
-Building production-ready AI systems by integrating LLM APIs into secure software architectures.
+I design and build production-oriented AI applications.
 
-Diploma in Computer Engineering (82.69%) → B.Tech in Artificial Intelligence & Data Science.
+With a Diploma in Computer Engineering (82.69%) and currently pursuing B.Tech in Artificial Intelligence & Data Science, I approach AI as a systems engineer — integrating LLMs into secure, deployable software architectures.
+
+I focus on:
+- Building real GenAI applications
+- Secure API integrations
+- Scalable frontend systems
+- AI-assisted engineering workflows
 
 **Target Roles:**  
 Remote AI Engineer Intern | Full Stack AI Developer | Python Engineer
@@ -44,24 +50,27 @@ Remote AI Engineer Intern | Full Stack AI Developer | Python Engineer
 
 ---
 
-## CURRENT FOCUS
+## CURRENT DIRECTION
 
-Secure AI APIs • Deployable GenAI Systems • Remote AI Internships
+- Advanced LLM Application Architectures  
+- Secure API-Based AI Systems  
+- Production-Ready GenAI Tools  
+- Remote AI Engineering Internships  
 
 ---
 
 ## GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sarvadnya07&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarvadnya07&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sarvadnya07&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvadnya07&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
 ## ENGINEERING PRINCIPLE
 
-> Build. Secure. Ship.
+> If it cannot be deployed securely, it is not finished.
