@@ -42,26 +42,11 @@ Remote AI Engineer Intern | Full Stack AI Developer | Python Engineer
   <img src="https://skillicons.dev/icons?i=react,flutter,dart,python,java,cpp,php,linux,git,mysql,firebase" />
 </p>
 
-### AI & Backend Systems
-- Gemini API & LLM Integrations  
-- Prompt Structuring & Response Control  
-- API Authentication & Middleware Design  
-- Python (Automation / Backend Logic)  
-- SQL & MySQL  
-- Firebase (Auth + Realtime Database)
-
-### Frontend Engineering
-- React.js (Component Architecture, State Management)
-- Flutter (Cross-Platform App Engineering)
-- HTML5 / CSS3
-- XML
-
-### Systems & Foundations
-- Linux (Ubuntu / Kali CLI Proficiency)
-- Git Workflow & Version Control
-- Computer Networks (Theory)
-- DBMS Fundamentals
-- Cybersecurity Concepts
+<p align="center">
+  <b>Gemini API • LLM Integration • Prompt Engineering • API Authentication</b><br>
+  <b>Python • React • Flutter • SQL • Firebase</b><br>
+  <b>Linux • Git • Networks • DBMS • Cybersecurity</b>
+</p>
 
 ---
 
