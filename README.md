@@ -91,37 +91,12 @@ Python • LLM APIs • Security Logging • Bash
 
 # 🧰 Tech Stack
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
-![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge\&logo=dart)
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge\&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge\&logo=cplusplus)
-
----
-
-### AI / Data
-
-![Gemini](https://img.shields.io/badge/Gemini%20API-black?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-black?style=for-the-badge)
-![LLM Orchestration](https://img.shields.io/badge/LLM%20Systems-black?style=for-the-badge)
-
----
-
-### Development
-
-![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge\&logo=flutter)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge\&logo=firebase)
-
----
-
-### Data & Infrastructure
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge\&logo=postgresql)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
-![Linux](https://img.shields.io/badge/Arch%20Linux-black?style=for-the-badge\&logo=archlinux)
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge\&logo=gnubash)
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python) ![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart) ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk) ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus) |
+| **AI / Data** | ![Gemini](https://img.shields.io/badge/Gemini%20API-black?style=for-the-badge) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-black?style=for-the-badge) ![LLM Orchestration](https://img.shields.io/badge/LLM%20Systems-black?style=for-the-badge) |
+| **Development** | ![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter) ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react) ![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase) |
+| **Infrastructure** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql) ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git) ![Linux](https://img.shields.io/badge/Arch%20Linux-black?style=for-the-badge&logo=archlinux) ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash) |
 
 ---
 
@@ -160,6 +135,7 @@ Python • LLM APIs • Security Logging • Bash
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sarvadnya07/Sarvadnya07/output/github-snake.svg">
   <img alt="github snake animation" src="https://raw.githubusercontent.com/Sarvadnya07/Sarvadnya07/output/github-snake.svg">
 </picture>
+
 ---
 
 # 🎓 Education
