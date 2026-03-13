@@ -51,7 +51,6 @@ I believe:
 • **AI + Cybersecurity** — secure LLM deployment and prompt injection defense
 • **GATE Data Science & AI** — strengthening mathematical foundations
 • **Open Source AI Projects** — building deployable real-world systems
-• **JLPT N5 Japanese** — global engineering communication
 
 ---
 
