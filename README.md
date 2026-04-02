@@ -34,13 +34,13 @@ Building the intersection of <b>Generative AI</b>, <b>secure system architecture
 
 I am a **B.Tech AI & Data Science student (2028)** with a **Diploma in Computer Engineering (82.69%)**.
 
-My work focuses on **building real AI systems**, not just prototypes.
+My work focuses on **building real AI systems**, not just prototypes. 
 I design systems where **LLMs interact with secure infrastructure, APIs, and autonomous workflows**.
 
 I believe:
 
-> AI is the engine.
-> System Architecture is the chassis.
+> AI is the engine. 
+> System Architecture is the chassis. 
 > Without security and scalability, AI remains a demo.
 
 ---
@@ -56,35 +56,29 @@ I believe:
 
 # 🚀 Featured Projects
 
-### 🛰 PublicEye
-
-AI-powered civic intelligence platform analyzing public data.
+### 👩‍💻 Sherly AI — Desktop Assistant
+A powerful, desktop-native AI assistant designed for seamless workflow integration. It combines voice-first interaction with local-first processing for a secure, high-speed experience.
 
 **Core Concepts**
-
-* Data ingestion pipelines
-* AI pattern detection
-* Civic analytics dashboards
+* **Voice-First UX:** Near-instant STT using `faster-whisper` and `scipy` signal processing.
+* **Local Intelligence:** Privacy-focused AI powered by local Ollama (Mistral).
+* **Intent-Based Routing:** Autonomously switches between system commands, web searches, and LLM reasoning.
 
 **Stack**
-
-Python • Gemini API • PostgreSQL • React
+Python • Ollama • faster-whisper • pystray • pyautogui
 
 ---
 
-### 🤖 Agentic Honey-Pot
-
-A **cyber-security project** designed to simulate vulnerable AI systems to detect prompt injection attacks.
+### 🛡️ ZeroPhish — AI Phishing Detection
+A production-grade, 3-tier threat detection system that analyzes Gmail emails in real-time using heuristics, ML, and Gemini AI—all managed via a Chrome Side Panel.
 
 **Core Concepts**
-
-* Prompt injection detection
-* Logging malicious prompts
-* LLM attack pattern analysis
+* **3-Tier Analysis:** Weighted scoring combining client-side heuristics, backend DistilBERT ML, and Gemini 1.5 Flash.
+* **Resilient Architecture:** Implements a Circuit Breaker pattern and Redis speed layer for sub-10ms response times.
+* **Forensic Dashboard:** Real-time visualization using Next.js 16 and Server-Sent Events (SSE).
 
 **Stack**
-
-Python • LLM APIs • Security Logging • Bash
+FastAPI • Gemini API • DistilBERT • Next.js • Chrome MV3
 
 ---
 
