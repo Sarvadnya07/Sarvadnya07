@@ -5,7 +5,7 @@
 <h1 align="center">Sarvadnya Sonkambale</h1>
 
 <p align="center">
-<b>AI Systems Engineer • Full-Stack Architect • Arch Linux Power User</b>
+<b>AI Systems Engineer • Full-Stack Architect • Linux User</b>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ Building the intersection of <b>Generative AI</b>, <b>secure system architecture
 
 # 🧠 About Me
 
-I am a **B.Tech AI & Data Science student (2028)** with a **Diploma in Computer Engineering (82.69%)**.
+I am a **B.E Artificial Intelligence & Data Science student (2028)** with a **Diploma in Computer Engineering (82.69%)**.
 
 My work focuses on **building real AI systems**, not just prototypes. 
 I design systems where **LLMs interact with secure infrastructure, APIs, and autonomous workflows**.
@@ -54,31 +54,26 @@ I believe:
 
 ---
 
-# 🚀 Featured Projects
+### 👩‍💻 Sherly AI — Autonomous Dev Orchestrator
+- Voice-native control (`faster-whisper`)  
+- 3-tier safety firewall (SAFE / CONFIRM / DANGEROUS)  
+- Self-healing via RAG + AST patching  
+- Persistent memory (ChromaDB)  
+- Docker sandbox + atomic undo system  
+- Multi-agent orchestration (Coder / System / Browser)  
 
-### 👩‍💻 Sherly AI — Desktop Assistant
-A powerful, desktop-native AI assistant designed for seamless workflow integration. It combines voice-first interaction with local-first processing for a secure, high-speed experience.
-
-**Core Concepts**
-* **Voice-First UX:** Near-instant STT using `faster-whisper` and `scipy` signal processing.
-* **Local Intelligence:** Privacy-focused AI powered by local Ollama (Mistral).
-* **Intent-Based Routing:** Autonomously switches between system commands, web searches, and LLM reasoning.
-
-**Stack**
-Python • Ollama • faster-whisper • pystray • pyautogui
+**Stack:** Python • Ollama • Docker • ChromaDB • PySide6  
 
 ---
 
 ### 🛡️ ZeroPhish — AI Phishing Detection
-A production-grade, 3-tier threat detection system that analyzes Gmail emails in real-time using heuristics, ML, and Gemini AI—all managed via a Chrome Side Panel.
+- 3-tier pipeline: Heuristics → DistilBERT → Gemini  
+- OSINT: WHOIS, typosquatting, redirect tracing  
+- Circuit breaker + Redis caching  
+- Real-time SSE dashboard  
+- Vision-ready phishing detection pipeline  
 
-**Core Concepts**
-* **3-Tier Analysis:** Weighted scoring combining client-side heuristics, backend DistilBERT ML, and Gemini 1.5 Flash.
-* **Resilient Architecture:** Implements a Circuit Breaker pattern and Redis speed layer for sub-10ms response times.
-* **Forensic Dashboard:** Real-time visualization using Next.js 16 and Server-Sent Events (SSE).
-
-**Stack**
-FastAPI • Gemini API • DistilBERT • Next.js • Chrome MV3
+**Stack:** FastAPI • DistilBERT • Gemini • Redis • Next.js  
 
 ---
 
