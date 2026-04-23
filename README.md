@@ -30,29 +30,29 @@ Building the intersection of <b>Generative AI</b>, <b>secure system architecture
 
 ---
 
-# 🧠 About Me
+## 🧠 About Me
 
 I am a **B.E Artificial Intelligence & Data Science student (2028)** with a **Diploma in Computer Engineering (82.69%)**.
 
-My work focuses on **building real AI systems**, not just prototypes. 
-I design systems where **LLMs interact with secure infrastructure, APIs, and autonomous workflows**.
+My work focuses on building **real AI systems**, not just prototypes.  
+I design systems where **LLMs integrate with secure infrastructure, APIs, and autonomous workflows**.
 
-I believe:
-
-> AI is the engine. 
-> System Architecture is the chassis. 
+> AI is the engine.  
+> System architecture is the chassis.  
 > Without security and scalability, AI remains a demo.
 
 ---
 
-# 🎯 2026 Focus
+## 🎯 2026 Focus
 
-• **Agentic AI Systems** — building autonomous AI workflows
-• **AI + Cybersecurity** — secure LLM deployment and prompt injection defense
-• **GATE Data Science & AI** — strengthening mathematical foundations
-• **Open Source AI Projects** — building deployable real-world systems
+- **Agentic AI Systems** — autonomous AI workflows  
+- **AI + Cybersecurity** — secure LLM deployment & prompt injection defense  
+- **GATE (Data Science & AI)** — strengthening mathematical foundations  
+- **Open Source AI Projects** — deployable real-world systems  
 
 ---
+
+## 🚀 Projects
 
 ### 👩‍💻 Sherly AI — Autonomous Dev Orchestrator
 - Voice-native control (`faster-whisper`)  
@@ -85,71 +85,61 @@ I believe:
 | **AI / Data** | ![Gemini](https://img.shields.io/badge/Gemini%20API-black?style=for-the-badge) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-black?style=for-the-badge) ![LLM Orchestration](https://img.shields.io/badge/LLM%20Systems-black?style=for-the-badge) |
 | **Development** | ![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter) ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react) ![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase) |
 | **Infrastructure** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql) ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git) ![Linux](https://img.shields.io/badge/Arch%20Linux-black?style=for-the-badge&logo=archlinux) ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash) |
-
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sarvadnya07&show_icons=true&theme=dark&hide_border=true&bg_color=000000"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvadnya07&layout=compact&theme=dark&hide_border=true&bg_color=000000"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarvadnya07&show_icons=true&theme=dark&hide_border=true&bg_color=000000"/>
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarvadnya07&theme=dark&hide_border=true&background=000000"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarvadnya07&theme=dark&hide_border=true&background=000000"/>
 </p>
 
 ---
 
-# 📈 Activity Graph
+## 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarvadnya07&theme=github-dark&bg_color=000000&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarvadnya07&theme=github-dark&bg_color=000000&hide_border=true"/>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sarvadnya07/Sarvadnya07/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sarvadnya07/Sarvadnya07/output/github-snake.svg">
-  <img alt="github snake animation" src="https://raw.githubusercontent.com/Sarvadnya07/Sarvadnya07/output/github-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sarvadnya07/Sarvadnya07/output/github-snake-dark.svg"/>
+</p>
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-**B.Tech — Artificial Intelligence & Data Science**
-Graduating: **2028**
-
-**Diploma — Computer Engineering**
-Score: **82.69%**
+- **B.Tech — Artificial Intelligence & Data Science** (2028)  
+- **Diploma — Computer Engineering** — 82.69%  
 
 ---
 
-# 🌍 Currently Learning
+## 🌍 Currently Learning
 
-• Agentic AI architectures
-• Secure LLM deployment
-• Distributed system design
-• Applied machine learning mathematics
+- Agentic AI architectures  
+- Secure LLM deployment  
+- Distributed system design  
+- Applied machine learning mathematics  
 
 ---
 
-# 🤝 Open To
+## 🤝 Open To
 
-• Remote **AI Engineering Internships**
-• **Open Source Collaboration**
-• **AI System Architecture Projects**
+- Remote **AI Engineering Internships**  
+- **Open Source Collaboration**  
+- **AI System Architecture Projects**  
 
 ---
 
