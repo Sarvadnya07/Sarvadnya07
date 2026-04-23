@@ -9,33 +9,28 @@
 </p>
 
 <p align="center">
-Building the intersection of <b>Generative AI</b>, <b>secure system architecture</b>, and <b>agentic workflows</b>.
+Designing production-grade AI systems integrating <b>LLMs</b> with <b>secure infrastructure</b> and <b>autonomous workflows</b>.
 </p>
 
 <p align="center">
-
 <a href="YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/Sarvadnya07">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 About
 
-I am a **B.E Artificial Intelligence & Data Science student (2028)** with a **Diploma in Computer Engineering (82.69%)**.
-
-My work focuses on building **real AI systems**, not just prototypes.  
-I design systems where **LLMs integrate with secure infrastructure, APIs, and autonomous workflows**.
+- B.E — Artificial Intelligence & Data Science (2028)  
+- Diploma — Computer Engineering (82.69%)  
+- Focus: **LLM systems, secure execution layers, autonomous pipelines**
 
 > AI is the engine.  
 > System architecture is the chassis.  
@@ -43,12 +38,12 @@ I design systems where **LLMs integrate with secure infrastructure, APIs, and au
 
 ---
 
-## 🎯 2026 Focus
+## 🎯 Focus (2026)
 
-- **Agentic AI Systems** — autonomous AI workflows  
-- **AI + Cybersecurity** — secure LLM deployment & prompt injection defense  
-- **GATE (Data Science & AI)** — strengthening mathematical foundations  
-- **Open Source AI Projects** — deployable real-world systems  
+- Agentic AI systems  
+- AI + Cybersecurity  
+- GATE (Data Science & AI)  
+- Production-grade open-source systems  
 
 ---
 
@@ -57,27 +52,27 @@ I design systems where **LLMs integrate with secure infrastructure, APIs, and au
 ### 👩‍💻 Sherly AI — Autonomous Dev Orchestrator
 - Voice-native control (`faster-whisper`)  
 - 3-tier safety firewall (SAFE / CONFIRM / DANGEROUS)  
-- Self-healing via RAG + AST patching  
-- Persistent memory (ChromaDB)  
-- Docker sandbox + atomic undo system  
+- Autonomous self-healing (RAG + AST patching)  
+- Persistent semantic memory (ChromaDB)  
+- Docker-isolated execution + atomic undo system  
 - Multi-agent orchestration (Coder / System / Browser)  
 
 **Stack:** Python • Ollama • Docker • ChromaDB • PySide6  
 
 ---
 
-### 🛡️ ZeroPhish — AI Phishing Detection
+### 🛡️ ZeroPhish — AI Phishing Detection System
 - 3-tier pipeline: Heuristics → DistilBERT → Gemini  
-- OSINT: WHOIS, typosquatting, redirect tracing  
-- Circuit breaker + Redis caching  
-- Real-time SSE dashboard  
-- Vision-ready phishing detection pipeline  
+- OSINT analysis: WHOIS, typosquatting, redirect tracing  
+- Circuit breaker architecture + Redis caching  
+- Real-time SSE dashboard for threat visualization  
+- Vision-ready pipeline for phishing detection  
 
 **Stack:** FastAPI • DistilBERT • Gemini • Redis • Next.js  
 
 ---
 
-# 🧰 Tech Stack
+## 🧰 Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -85,12 +80,14 @@ I design systems where **LLMs integrate with secure infrastructure, APIs, and au
 | **AI / Data** | ![Gemini](https://img.shields.io/badge/Gemini%20API-black?style=for-the-badge) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-black?style=for-the-badge) ![LLM Orchestration](https://img.shields.io/badge/LLM%20Systems-black?style=for-the-badge) |
 | **Development** | ![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter) ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react) ![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase) |
 | **Infrastructure** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql) ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git) ![Linux](https://img.shields.io/badge/Arch%20Linux-black?style=for-the-badge&logo=archlinux) ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash) |
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sarvadnya07&show_icons=true&theme=dark&hide_border=true&bg_color=000000"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvadnya07&layout=compact&theme=dark&hide_border=true&bg_color=000000"/>
 </p>
 
 ---
@@ -111,18 +108,10 @@ I design systems where **LLMs integrate with secure infrastructure, APIs, and au
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sarvadnya07/Sarvadnya07/output/github-snake-dark.svg"/>
-</p>
-
----
-
 ## 🎓 Education
 
-- **B.Tech — Artificial Intelligence & Data Science** (2028)  
-- **Diploma — Computer Engineering** — 82.69%  
+- B.E — Artificial Intelligence & Data Science (2028)  
+- Diploma — Computer Engineering  
 
 ---
 
@@ -130,19 +119,19 @@ I design systems where **LLMs integrate with secure infrastructure, APIs, and au
 
 - Agentic AI architectures  
 - Secure LLM deployment  
-- Distributed system design  
-- Applied machine learning mathematics  
+- Distributed systems design  
+- Applied ML mathematics  
 
 ---
 
 ## 🤝 Open To
 
-- Remote **AI Engineering Internships**  
-- **Open Source Collaboration**  
-- **AI System Architecture Projects**  
+- AI Engineering Internships  
+- Open Source Collaboration  
+- Systems & Architecture Projects  
 
 ---
 
 <p align="center">
-<b>Status:</b> Active Builder • Open to Collaboration
+<b>Status:</b> Actively building
 </p>
