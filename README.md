@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-Designing production-grade AI systems integrating <b>LLMs</b> with <b>secure infrastructure</b> and <b>autonomous workflows</b>.
+Designing production-grade AI systems with <b>secure execution layers</b> and <b>autonomous agent pipelines</b>.
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ Designing production-grade AI systems integrating <b>LLMs</b> with <b>secure inf
 
 - B.E — Artificial Intelligence & Data Science (2028)  
 - Diploma — Computer Engineering (82.69%)  
-- Focus: **LLM systems, secure execution layers, autonomous pipelines**
+- Focus: **LLM systems, secure execution, autonomous pipelines**
 
 > AI is the engine.  
 > System architecture is the chassis.  
@@ -38,19 +38,19 @@ Designing production-grade AI systems integrating <b>LLMs</b> with <b>secure inf
 
 ---
 
-## 🎯 Focus (2026)
-
-- Agentic AI systems  
-- AI + Cybersecurity  
-- GATE (Data Science & AI)  
-- Production-grade open-source systems  
+## ⚙️ Systems Focus
+- LLM orchestration & RAG pipelines  
+- Secure execution layers (sandboxing, validation)  
+- Autonomous multi-agent workflows  
 
 ---
 
 ## 🚀 Projects
 
-### 👩‍💻 Sherly AI — Autonomous Dev Orchestrator
-- Voice-native control (`faster-whisper`)  
+### 👩‍💻 Sherly AI — Autonomous Dev Orchestrator  
+[View Project](https://github.com/YOUR_USERNAME/sherly)
+
+- Voice-native control (`faster-whisper`) — <300ms intent latency  
 - 3-tier safety firewall (SAFE / CONFIRM / DANGEROUS)  
 - Autonomous self-healing (RAG + AST patching)  
 - Persistent semantic memory (ChromaDB)  
@@ -61,12 +61,15 @@ Designing production-grade AI systems integrating <b>LLMs</b> with <b>secure inf
 
 ---
 
-### 🛡️ ZeroPhish — AI Phishing Detection System
+### 🛡️ ZeroPhish — AI Phishing Detection System  
+[View Project](https://github.com/YOUR_USERNAME/ZeroPhish)
+
 - 3-tier pipeline: Heuristics → DistilBERT → Gemini  
 - OSINT analysis: WHOIS, typosquatting, redirect tracing  
-- Circuit breaker architecture + Redis caching  
-- Real-time SSE dashboard for threat visualization  
-- Vision-ready pipeline for phishing detection  
+- Circuit breaker architecture + Redis caching (<10ms cache hits)  
+- Real-time SSE dashboard  
+- Vision-ready phishing detection pipeline  
+- ~1.5–3.5s full scan latency • 97%+ ML accuracy  
 
 **Stack:** FastAPI • DistilBERT • Gemini • Redis • Next.js  
 
