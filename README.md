@@ -89,8 +89,8 @@ Designing production-grade AI systems with <b>secure execution layers</b> and <b
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarvadnya07&show_icons=true&theme=dark&hide_border=true&bg_color=000000"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvadnya07&layout=compact&theme=dark&hide_border=true&bg_color=000000"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarvadnya07&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Sarvadnya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvadnya07&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 ---
