@@ -88,13 +88,13 @@ Designing production-grade AI systems with <b>secure execution layers</b> and <b
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarvadnya07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvadnya07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Sarvadnya07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sarvadnya07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarvadnya07&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
+  <img src="https://komarev.com/ghpvc/?username=Sarvadnya07&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
