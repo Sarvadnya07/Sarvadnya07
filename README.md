@@ -48,7 +48,7 @@ Designing production-grade AI systems with <b>secure execution layers</b> and <b
 ## 🚀 Projects
 
 ### 👩‍💻 Sherly AI — Autonomous Dev Orchestrator  
-[View Project](https://github.com/YOUR_USERNAME/sherly)
+[View Project](https://github.com/Sarvadnya07/sherly)
 
 - Voice-native control (`faster-whisper`) — <300ms intent latency  
 - 3-tier safety firewall (SAFE / CONFIRM / DANGEROUS)  
@@ -62,7 +62,7 @@ Designing production-grade AI systems with <b>secure execution layers</b> and <b
 ---
 
 ### 🛡️ ZeroPhish — AI Phishing Detection System  
-[View Project](https://github.com/YOUR_USERNAME/ZeroPhish)
+[View Project](https://github.com/Sarvadnya07/ZeroPhish)
 
 - 3-tier pipeline: Heuristics → DistilBERT → Gemini  
 - OSINT analysis: WHOIS, typosquatting, redirect tracing  
