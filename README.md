@@ -47,29 +47,33 @@ Designing production-grade AI systems with <b>secure execution layers</b> and <b
 
 ## 🚀 Projects
 
-### 👩‍💻 Sherly AI — Autonomous Dev Orchestrator  
+### 👩‍💻 Sherly AI — Autonomous Dev Orchestrator
+
 [View Project](https://github.com/Sarvadnya07/sherly)
 
-- Voice-native control (`faster-whisper`) — <300ms intent latency  
-- 3-tier safety firewall (SAFE / CONFIRM / DANGEROUS)  
-- Autonomous self-healing (RAG + AST patching)  
-- Persistent semantic memory (ChromaDB)  
-- Docker-isolated execution + atomic undo system  
-- Multi-agent orchestration (Coder / System / Browser)  
+- Voice-first local AI developer orchestrator with deterministic command routing
+- 3-tier safety firewall — SAFE / CONFIRM / DANGEROUS
+- Self-healing development loop with **RAG + AST-based patching**
+- Persistent semantic project memory with **ChromaDB**
+- Docker-isolated execution, atomic file operations & **one-click undo**
+- Multi-agent orchestration — **Coder / System / Browser**
+- **214 automated tests passing** with cross-version CI
 
-**Stack:** Python • Ollama • Docker • ChromaDB • PySide6  
+**Stack:** Python • Ollama • faster-whisper • ChromaDB • Docker • PySide6
 
 ---
 
-### 🛡️ ZeroPhish — AI Phishing Detection System  
+### 🛡️ ZeroPhish — AI Phishing Detection System
+
 [View Project](https://github.com/Sarvadnya07/ZeroPhish)
 
-- 3-tier pipeline: Heuristics → DistilBERT → Gemini  
-- OSINT analysis: WHOIS, typosquatting, redirect tracing  
-- Circuit breaker architecture + Redis caching (<10ms cache hits)  
-- Real-time SSE dashboard  
-- Vision-ready phishing detection pipeline  
-- ~1.5–3.5s full scan latency • 97%+ ML accuracy  
+- Real-time **3-tier detection** — Heuristics → DistilBERT → Gemini
+- **OSINT analysis:** WHOIS, typosquatting & redirect tracing
+- **~1.5–3.5s full scan latency • 97%+ ML accuracy**
+- Redis speed layer with **<10ms cache hits**
+- Circuit-breaker architecture with graceful AI fallback
+- Real-time **SSE threat dashboard** with forensic insights
+- Vision-ready phishing & impersonation detection pipeline
 
 **Stack:** FastAPI • DistilBERT • Gemini • Redis • Next.js  
 
