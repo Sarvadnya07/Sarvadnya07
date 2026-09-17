@@ -40,9 +40,9 @@ I am a Computer Engineering graduate and **B.E. Artificial Intelligence & Data S
 ### 🤖 Sherly AI
 **Voice-first local developer orchestrator**
 
-Desktop developer copilot combining voice/text input, deterministic routing, guarded execution, diagnostics, self-healing workflows, patch previews, atomic backups, undo, and local Ollama models.
+Desktop AI copilot with voice/text input, deterministic routing, guarded execution, diagnostics, patch previews, rollback, and local Ollama models.
 
-**Signal:** secure execution • deterministic routing • diagnostics • rollback workflows  
+**Signal:** secure execution • deterministic routing • rollback workflows  
 **Stack:** Python • FastAPI • WebSockets • Ollama • React/Vite • SQLite
 
 [Repository →](https://github.com/Sarvadnya07/sherly)
@@ -53,9 +53,9 @@ Desktop developer copilot combining voice/text input, deterministic routing, gua
 ### 🛡️ ZeroPhish
 **AI-powered phishing detection for Gmail**
 
-Three-tier threat detection spanning Chrome MV3, FastAPI analysis services, and a Next.js dashboard, combining heuristics, ML/metadata checks, Gemini reasoning, and real-time SSE telemetry.
+Three-part security system spanning Chrome MV3, FastAPI services, and a Next.js dashboard with heuristics, metadata/ML checks, Gemini reasoning, and SSE telemetry.
 
-**Signal:** layered detection • threat intelligence • security controls • real-time analysis  
+**Signal:** layered detection • security controls • real-time analysis  
 **Stack:** Python • FastAPI • Next.js • Gemini • Redis • Chrome MV3
 
 [Repository →](https://github.com/Sarvadnya07/ZeroPhish)
@@ -68,9 +68,9 @@ Three-tier threat detection spanning Chrome MV3, FastAPI analysis services, and 
 ### 📖 Luma
 **Local-first EPUB/PDF reader**
 
-Rust + Tauri + React desktop reader with resilient, multi-signal annotation anchoring designed to preserve highlights and notes across document reflow.
+Rust/Tauri/React desktop reader with multi-signal annotation anchoring designed to keep highlights and notes stable across document reflow.
 
-**Signal:** Rust core • annotation integrity • SQLite WAL • FTS5 • typed IPC  
+**Signal:** Rust core • annotation integrity • resilient persistence  
 **Stack:** Rust • Tauri 2 • React • TypeScript • SQLite
 
 [Repository →](https://github.com/Sarvadnya07/Luma)
@@ -81,9 +81,9 @@ Rust + Tauri + React desktop reader with resilient, multi-signal annotation anch
 ### 🧩 HackTrack
 **Developer opportunity discovery platform**
 
-Platform for opportunity discovery, career tracking, project collaboration, skill mapping, recommendations, community workflows, and browser-based opportunity collection.
+Platform for opportunity discovery, career tracking, project collaboration, skill mapping, recommendations, and browser-based opportunity collection.
 
-**Signal:** platform architecture • recommendations • data pipelines • API workflows  
+**Signal:** platform architecture • recommendations • data workflows  
 **Stack:** FastAPI • Next.js • PostgreSQL • scraping
 
 [Repository →](https://github.com/Sarvadnya07/HackTrack)
@@ -96,9 +96,9 @@ Platform for opportunity discovery, career tracking, project collaboration, skil
 ### 💡 IdeaGPT
 **AI technical co-founder**
 
-AI SaaS platform for technical idea analysis, feasibility evaluation, architecture planning, roadmap generation, and technology recommendations across multiple AI providers.
+AI SaaS for idea analysis, feasibility evaluation, architecture planning, roadmap generation, and technology recommendations across multiple AI providers.
 
-**Signal:** multi-provider orchestration • isolated workspaces • architecture planning • structured outputs  
+**Signal:** multi-provider orchestration • structured outputs • architecture planning  
 **Stack:** Next.js • FastAPI • TypeScript • PostgreSQL • Turborepo
 
 [Repository →](https://github.com/Sarvadnya07/IdeaGPT)
