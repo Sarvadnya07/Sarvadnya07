@@ -47,9 +47,7 @@ I am a Computer Engineering graduate and **B.E. Artificial Intelligence & Data S
 
 Voice and text-driven developer workflows with deterministic intent routing, guarded execution, diagnostics, patch previews, atomic file operations, and local model orchestration.
 
-**Engineering signal**  
-Secure execution boundaries • local inference • diagnostics • rollback-oriented workflows
-
+**Signal:** Secure execution • local inference • diagnostics • rollback-oriented workflows  
 **Stack:** Python • FastAPI • Ollama • PySide6
 
 [Repository →](https://github.com/Sarvadnya07/sherly)
@@ -62,9 +60,7 @@ Secure execution boundaries • local inference • diagnostics • rollback-ori
 
 Multi-stage email and URL analysis combining heuristics, ML, threat intelligence, Gemini reasoning, Redis acceleration, SSE telemetry, and a Chrome MV3 extension.
 
-**Engineering signal**  
-Layered analysis • security controls • SSRF defenses • automated quality gates
-
+**Signal:** Layered analysis • security controls • SSRF defenses • automated quality gates  
 **Stack:** Python • FastAPI • Next.js • Gemini • Redis
 
 [Repository →](https://github.com/Sarvadnya07/ZeroPhish)
@@ -79,9 +75,7 @@ Layered analysis • security controls • SSRF defenses • automated quality g
 
 Desktop reading software built around resilient annotations, local persistence, search, typed IPC, and a capability-aware native boundary.
 
-**Engineering signal**  
-Rust core • SQLite WAL • FTS5 • typed IPC • security boundary
-
+**Signal:** Rust core • SQLite WAL • FTS5 • typed IPC • security boundary  
 **Stack:** Rust • Tauri 2 • React • TypeScript • SQLite
 
 [Repository →](https://github.com/Sarvadnya07/Luma)
@@ -94,9 +88,7 @@ Rust core • SQLite WAL • FTS5 • typed IPC • security boundary
 
 Platform combining opportunity discovery, career matching, community workflows, recommendations, scraping, APIs, and infrastructure components.
 
-**Engineering signal**  
-Platform architecture • APIs • recommendations • data pipelines
-
+**Signal:** Platform architecture • APIs • recommendations • data pipelines  
 **Stack:** FastAPI • Next.js • PostgreSQL • data pipelines
 
 [Repository →](https://github.com/Sarvadnya07/HackTrack)
@@ -111,9 +103,7 @@ Platform architecture • APIs • recommendations • data pipelines
 
 Full-stack platform for idea analysis, architecture blueprints, technology recommendations, roadmaps, and structured technical outputs across multiple AI providers.
 
-**Engineering signal**  
-Provider-agnostic orchestration • typed contracts • tenant isolation • quality gates
-
+**Signal:** Provider-agnostic orchestration • typed contracts • tenant isolation • quality gates  
 **Stack:** Next.js • FastAPI • PostgreSQL • multi-provider LLMs
 
 [Repository →](https://github.com/Sarvadnya07/IdeaGPT)
@@ -126,15 +116,15 @@ Provider-agnostic orchestration • typed contracts • tenant isolation • qua
 
 ## Engineering Evidence
 
-I focus on the engineering around AI features, not only the model layer.
+The flagship projects emphasize the engineering around AI features, not only the model layer.
 
-| Area | Evidence represented across the flagship work |
+| Area | Evidence |
 |---|---|
-| **Architecture** | explicit module boundaries, layered systems, typed contracts, trust boundaries |
-| **Security** | input validation, SSRF defenses, guarded execution, secret hygiene, threat-aware design |
+| **Architecture** | module boundaries, layered systems, typed contracts, trust boundaries |
+| **Security** | input validation, SSRF defenses, guarded execution, secret hygiene |
 | **Testing** | regression, integration, architecture-boundary, failure-mode, type and build checks |
-| **CI/CD** | automated linting, type checking, test suites, security analysis, quality gates |
-| **Reliability** | rollback-oriented workflows, lifecycle handling, failure-path testing, resilient APIs |
+| **CI/CD** | linting, type checking, tests, security analysis, quality gates |
+| **Reliability** | rollback-oriented workflows, lifecycle handling, failure-path testing |
 
 ---
 
@@ -176,12 +166,8 @@ I focus on the engineering around AI features, not only the model layer.
 
 ## Contact
 
-For engineering work, internships, collaboration, or open-source projects:
-
 **Email:** [sarvadnyasonkambale0@gmail.com](mailto:sarvadnyasonkambale0@gmail.com)  
 **GitHub:** [github.com/Sarvadnya07](https://github.com/Sarvadnya07)
-
----
 
 <p align="center">
   <strong>Build systems that can be trusted.</strong>
