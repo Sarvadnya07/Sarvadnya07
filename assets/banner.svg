@@ -1,74 +1,78 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 380" role="img" aria-labelledby="title desc">
-  <title id="title">AI systems engineering banner</title>
-  <desc id="desc">Minimal dark engineering banner highlighting AI systems, secure automation, backend engineering and developer tooling.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 460" role="img" aria-labelledby="title desc">
+  <title id="title">Sarvadnya Sonkambale — AI Engineer</title>
+  <desc id="desc">Clean dark engineering hero banner with restrained India-inspired tricolor accents and systems motifs.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#070a10"/>
-      <stop offset="55%" stop-color="#0b1120"/>
+      <stop offset="58%" stop-color="#0d1422"/>
       <stop offset="100%" stop-color="#111827"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="tri" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#ff9933"/>
-      <stop offset="50%" stop-color="#e5e7eb"/>
+      <stop offset="50%" stop-color="#f5f7fa"/>
       <stop offset="100%" stop-color="#138808"/>
     </linearGradient>
     <linearGradient id="node" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#60a5fa"/>
       <stop offset="100%" stop-color="#a78bfa"/>
     </linearGradient>
-    <filter id="soft"><feGaussianBlur stdDeviation="26"/></filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="30"/></filter>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045"/>
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.035"/>
     </pattern>
   </defs>
 
-  <rect width="1600" height="380" rx="28" fill="url(#bg)"/>
-  <rect width="1600" height="380" rx="28" fill="url(#grid)"/>
-  <ellipse cx="1370" cy="90" rx="250" ry="110" fill="#2563eb" opacity="0.12" filter="url(#soft)"/>
-  <ellipse cx="1480" cy="310" rx="220" ry="90" fill="#7c3aed" opacity="0.10" filter="url(#soft)"/>
+  <rect width="1600" height="460" rx="28" fill="url(#bg)"/>
+  <rect width="1600" height="460" rx="28" fill="url(#grid)"/>
+  <ellipse cx="1360" cy="110" rx="260" ry="125" fill="#2563eb" opacity="0.10" filter="url(#soft)"/>
+  <ellipse cx="1490" cy="360" rx="230" ry="120" fill="#22c55e" opacity="0.07" filter="url(#soft)"/>
 
-  <rect x="76" y="62" width="250" height="5" rx="2.5" fill="url(#accent)"/>
+  <rect x="70" y="70" width="1460" height="320" rx="24" fill="#0b1220" fill-opacity="0.34" stroke="#334155" stroke-opacity="0.65"/>
+  <rect x="70" y="70" width="7" height="320" rx="3.5" fill="url(#tri)"/>
 
-  <text x="76" y="105" fill="#94a3b8" font-size="15" letter-spacing="2.6" font-family="ui-monospace,SFMono-Regular,Consolas,monospace">
-    AI SYSTEMS  /  SECURE AUTOMATION  /  DEVELOPER TOOLING
-  </text>
+  <g transform="translate(115 112)">
+    <text x="0" y="0" fill="#7dd3fc" font-size="18" font-family="ui-monospace,SFMono-Regular,Consolas,monospace">&gt; engineer@sarvadnya:~$</text>
+    <circle cx="278" cy="-6" r="8" fill="#22c55e" opacity="0.9"/>
 
-  <text x="76" y="170" fill="#f8fafc" font-size="52" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="700">
-    BUILDING PRACTICAL AI SYSTEMS
-  </text>
+    <text x="0" y="78" fill="#f8fafc" font-size="58" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="750">Sarvadnya</text>
+    <text x="315" y="78" fill="url(#tri)" font-size="58" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="750">Sonkambale</text>
 
-  <text x="76" y="213" fill="#cbd5e1" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif">
-    LLM infrastructure · backend engineering · local AI · full-stack products
-  </text>
+    <text x="0" y="125" fill="#cbd5e1" font-size="24" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="600">AI ENGINEER  ·  SYSTEMS BUILDER  ·  FULL-STACK DEVELOPER</text>
+    <text x="0" y="166" fill="#94a3b8" font-size="19" font-family="Inter,Segoe UI,Arial,sans-serif">AI/LLM systems • secure automation • backend engineering • developer tooling</text>
 
-  <g transform="translate(76 266)">
-    <rect x="0" y="0" width="170" height="42" rx="10" fill="#0f172a" stroke="#334155"/>
-    <text x="85" y="27" text-anchor="middle" fill="#e2e8f0" font-size="15" font-family="ui-monospace,SFMono-Regular,Consolas,monospace">PYTHON · TS</text>
-    <rect x="184" y="0" width="170" height="42" rx="10" fill="#0f172a" stroke="#334155"/>
-    <text x="269" y="27" text-anchor="middle" fill="#e2e8f0" font-size="15" font-family="ui-monospace,SFMono-Regular,Consolas,monospace">RUST · DART</text>
-    <rect x="368" y="0" width="190" height="42" rx="10" fill="#0f172a" stroke="#334155"/>
-    <text x="463" y="27" text-anchor="middle" fill="#e2e8f0" font-size="15" font-family="ui-monospace,SFMono-Regular,Consolas,monospace">FASTAPI · NEXT.JS</text>
+    <g transform="translate(0 205)">
+      <rect x="0" y="0" width="132" height="38" rx="10" fill="#111827" stroke="#334155"/>
+      <text x="66" y="25" text-anchor="middle" fill="#dbeafe" font-size="14" font-family="ui-monospace,monospace">AI / LLM</text>
+      <rect x="143" y="0" width="132" height="38" rx="10" fill="#111827" stroke="#334155"/>
+      <text x="209" y="25" text-anchor="middle" fill="#dbeafe" font-size="14" font-family="ui-monospace,monospace">FULL STACK</text>
+      <rect x="286" y="0" width="132" height="38" rx="10" fill="#111827" stroke="#334155"/>
+      <text x="352" y="25" text-anchor="middle" fill="#bbf7d0" font-size="14" font-family="ui-monospace,monospace">SECURITY</text>
+      <rect x="429" y="0" width="132" height="38" rx="10" fill="#111827" stroke="#334155"/>
+      <text x="495" y="25" text-anchor="middle" fill="#e2e8f0" font-size="14" font-family="ui-monospace,monospace">SYSTEMS</text>
+    </g>
   </g>
 
-  <g transform="translate(1050 72)" fill="none">
-    <path d="M80 120L190 58L300 120L408 72" stroke="#334155" stroke-width="2"/>
-    <path d="M80 120L190 182L300 120L408 170" stroke="#334155" stroke-width="2"/>
-    <path d="M190 58L190 182M300 120L408 72M300 120L408 170" stroke="#334155" stroke-width="2"/>
+  <g transform="translate(980 108)" fill="none">
+    <path d="M0 140 C120 95 210 95 340 40 C420 6 500 8 590 0" stroke="#ff9933" stroke-width="18" stroke-linecap="round" opacity="0.72"/>
+    <path d="M0 152 C120 108 215 110 345 55 C425 22 505 24 600 16" stroke="#f5f7fa" stroke-width="11" stroke-linecap="round" opacity="0.66"/>
+    <path d="M0 164 C120 120 220 123 350 70 C430 39 512 42 608 34" stroke="#138808" stroke-width="8" stroke-linecap="round" opacity="0.74"/>
 
-    <circle cx="80" cy="120" r="24" fill="#0f172a" stroke="#22c55e" stroke-width="2"/>
-    <circle cx="190" cy="58" r="24" fill="#0f172a" stroke="#60a5fa" stroke-width="2"/>
-    <circle cx="190" cy="182" r="24" fill="#0f172a" stroke="#a78bfa" stroke-width="2"/>
-    <circle cx="300" cy="120" r="28" fill="#0f172a" stroke="url(#node)" stroke-width="3"/>
-    <circle cx="408" cy="72" r="20" fill="#0f172a" stroke="#f59e0b" stroke-width="2"/>
-    <circle cx="408" cy="170" r="20" fill="#0f172a" stroke="#22c55e" stroke-width="2"/>
+    <path d="M35 255 L145 180 L205 228 L305 135 L395 210 L470 158 L590 255 Z" fill="#0a1220" stroke="#334155" stroke-width="2"/>
+    <path d="M35 255 L145 180 L205 228 L305 135 L395 210 L470 158 L590 255" stroke="#64748b" stroke-width="2" opacity="0.8"/>
 
-    <path d="M290 120h20M300 110v20" stroke="#f8fafc" stroke-width="2.5"/>
-    <path d="M70 120h20M80 110v20" stroke="#f8fafc" stroke-width="2"/>
-    <path d="M181 49l18 18M199 49l-18 18" stroke="#f8fafc" stroke-width="2"/>
+    <circle cx="410" cy="104" r="52" fill="#fde68a" opacity="0.92"/>
+    <circle cx="410" cy="104" r="34" fill="#fff7d6" opacity="0.85"/>
+    <path d="M410 136 V211 M410 153 L445 140" stroke="#f8fafc" stroke-width="3"/>
+    <path d="M410 136 L410 101 L446 113 L410 126 Z" fill="#111827"/>
+
+    <g transform="translate(465 215)">
+      <rect x="0" y="0" width="105" height="70" rx="14" fill="#0b1220" stroke="#334155"/>
+      <text x="14" y="25" fill="#94a3b8" font-size="11" font-family="ui-monospace,monospace">DISCIPLINE</text>
+      <text x="14" y="43" fill="#cbd5e1" font-size="11" font-family="ui-monospace,monospace">SYSTEMS</text>
+      <text x="14" y="61" fill="#cbd5e1" font-size="11" font-family="ui-monospace,monospace">BUILD · VERIFY</text>
+    </g>
   </g>
 
-  <rect x="76" y="336" width="1448" height="1" fill="#1e293b"/>
-  <circle cx="76" cy="336" r="3" fill="#ff9933"/>
-  <circle cx="800" cy="336" r="3" fill="#e5e7eb"/>
-  <circle cx="1524" cy="336" r="3" fill="#138808"/>
+  <rect x="115" y="356" width="630" height="2" rx="1" fill="url(#tri)" opacity="0.85"/>
+  <text x="115" y="383" fill="#64748b" font-size="14" font-family="ui-monospace,monospace">BUILD THE SYSTEM  /  UNDERSTAND THE SYSTEM  /  VERIFY THE SYSTEM</text>
 </svg>
