@@ -147,10 +147,11 @@ I focus on the engineering layers that make AI systems dependable in practice.
 
 <p align="center">
   <img height="175" src="https://github-readme-stats.shion.dev/api?username=Sarvadnya07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="175" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sarvadnya07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <strong>Public work across active repositories, pull requests, commits, and engineering workflows.</strong>
+  <img src="https://streak-stats.demolab.com?user=Sarvadnya07&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 </p>
 
 ---
