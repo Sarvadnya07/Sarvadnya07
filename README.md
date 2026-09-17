@@ -9,12 +9,17 @@
 </p>
 
 <p align="center">
+  <strong>🟢 Open to Internships · AI / Full-Stack Engineering</strong>
+</p>
+
+<p align="center">
   Building practical AI systems across <strong>LLM infrastructure, secure automation, backend engineering, and developer tooling</strong>.
 </p>
 
 <p align="center">
   <a href="mailto:sarvadnyasonkambale0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Sarvadnya07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/Sarvadnya07?tab=overview&from=2020-01-01&to=2026-12-31"><img src="https://img.shields.io/badge/GitHub%20Activity-View-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub activity"/></a>
 </p>
 
 ---
@@ -40,7 +45,7 @@ I am a Computer Engineering graduate and **B.E. Artificial Intelligence & Data S
 ### 🤖 Sherly AI
 **Voice-first local developer orchestrator**
 
-Desktop AI copilot for voice/text interaction, deterministic routing, guarded execution, diagnostics, patch previews, rollback, and local Ollama models.
+Desktop AI copilot with voice/text input, deterministic routing, guarded execution, diagnostics, patch previews, rollback, and local Ollama models.
 
 **Signal:** secure execution • deterministic routing • rollback workflows  
 **Stack:** Python • FastAPI • WebSockets • Ollama • React/Vite • SQLite
@@ -53,7 +58,7 @@ Desktop AI copilot for voice/text interaction, deterministic routing, guarded ex
 ### 🛡️ ZeroPhish
 **AI-powered phishing detection for Gmail**
 
-Three-part security system across Chrome MV3, FastAPI services, and a Next.js dashboard with heuristics, metadata/ML checks, Gemini reasoning, and SSE telemetry.
+Three-part security system spanning Chrome MV3, FastAPI services, and a Next.js dashboard with heuristics, metadata/ML checks, Gemini reasoning, and SSE telemetry.
 
 **Signal:** layered detection • security controls • real-time analysis  
 **Stack:** Python • FastAPI • Next.js • Gemini • Redis • Chrome MV3
@@ -68,7 +73,7 @@ Three-part security system across Chrome MV3, FastAPI services, and a Next.js da
 ### 📖 Luma
 **Local-first EPUB/PDF reader**
 
-Rust/Tauri/React desktop reader with multi-signal annotation anchoring that keeps highlights and notes stable across document reflow.
+Rust/Tauri/React desktop reader with multi-signal annotation anchoring designed to keep highlights and notes stable across document reflow.
 
 **Signal:** Rust core • annotation integrity • resilient persistence  
 **Stack:** Rust • Tauri 2 • React • TypeScript • SQLite
