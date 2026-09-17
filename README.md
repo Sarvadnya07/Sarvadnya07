@@ -40,7 +40,7 @@ I am a Computer Engineering graduate and **B.E. Artificial Intelligence & Data S
 ### 🤖 Sherly AI
 **Voice-first local developer orchestrator**
 
-Desktop AI copilot with voice/text input, deterministic routing, guarded execution, diagnostics, patch previews, rollback, and local Ollama models.
+Desktop AI copilot for voice/text interaction, deterministic routing, guarded execution, diagnostics, patch previews, rollback, and local Ollama models.
 
 **Signal:** secure execution • deterministic routing • rollback workflows  
 **Stack:** Python • FastAPI • WebSockets • Ollama • React/Vite • SQLite
@@ -53,7 +53,7 @@ Desktop AI copilot with voice/text input, deterministic routing, guarded executi
 ### 🛡️ ZeroPhish
 **AI-powered phishing detection for Gmail**
 
-Three-part security system spanning Chrome MV3, FastAPI services, and a Next.js dashboard with heuristics, metadata/ML checks, Gemini reasoning, and SSE telemetry.
+Three-part security system across Chrome MV3, FastAPI services, and a Next.js dashboard with heuristics, metadata/ML checks, Gemini reasoning, and SSE telemetry.
 
 **Signal:** layered detection • security controls • real-time analysis  
 **Stack:** Python • FastAPI • Next.js • Gemini • Redis • Chrome MV3
@@ -68,7 +68,7 @@ Three-part security system spanning Chrome MV3, FastAPI services, and a Next.js 
 ### 📖 Luma
 **Local-first EPUB/PDF reader**
 
-Rust/Tauri/React desktop reader with multi-signal annotation anchoring designed to keep highlights and notes stable across document reflow.
+Rust/Tauri/React desktop reader with multi-signal annotation anchoring that keeps highlights and notes stable across document reflow.
 
 **Signal:** Rust core • annotation integrity • resilient persistence  
 **Stack:** Rust • Tauri 2 • React • TypeScript • SQLite
