@@ -5,144 +5,157 @@
 <h1 align="center">Sarvadnya Sonkambale</h1>
 
 <p align="center">
-  <strong>AI Systems Engineer • Full-Stack Developer • Systems Builder</strong>
+  <strong>AI Engineer • Systems Builder • Full-Stack Developer</strong>
 </p>
 
 <p align="center">
-  Building practical AI products and engineering systems with a focus on <strong>architecture, security, reliability, and developer tooling</strong>.
+  Building practical AI products and engineering systems across <strong>LLM infrastructure, secure automation, backend systems, and developer tooling</strong>.
 </p>
 
 <p align="center">
-  <a href="mailto:sarvadnyasonkambale0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Sarvadnya07">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="mailto:sarvadnyasonkambale0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Sarvadnya07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
 
 ## About
 
-I am a Computer Engineering graduate and **B.E. Artificial Intelligence & Data Science** student building software across AI, full-stack development, security, and systems engineering.
+I am a Computer Engineering graduate and **B.E. Artificial Intelligence & Data Science** student focused on building software that is understandable, testable, secure, and useful.
 
 - 🎓 B.E. Artificial Intelligence & Data Science — Class of 2028
 - 📜 Diploma in Computer Engineering — **82.69%**
-- 🧠 Interested in **LLM systems, agent workflows, secure automation, backend architecture, and local-first software**
-- 🛠️ Working primarily with **Python, TypeScript, Rust, Dart, SQL, Linux, APIs, databases, and CI/CD**
+- 🔧 Focus: **AI/LLM systems, secure automation, developer tools, backend engineering, and systems design**
+- 🛠️ Primary technologies: **Python, TypeScript, Rust, Dart, SQL, Linux, React, Next.js, FastAPI, PostgreSQL**
 
 > **Build the system. Understand the system. Verify the system.**
 
 ---
 
-## Engineering Focus
+## Flagship Projects
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-LLM%20Systems-7C3AED?style=for-the-badge" alt="AI systems"/>
-  <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend"/>
-  <img src="https://img.shields.io/badge/Frontend-Next.js%20%2B%20React-111827?style=for-the-badge&logo=next.js&logoColor=white" alt="Frontend"/>
-  <img src="https://img.shields.io/badge/Systems-Rust%20%2B%20Tauri-F74C00?style=for-the-badge&logo=rust&logoColor=white" alt="Systems"/>
-  <img src="https://img.shields.io/badge/Security-Defense%20in%20Depth-DC2626?style=for-the-badge" alt="Security"/>
+  <img src="./assets/projects.svg" width="100%" alt="Five flagship engineering projects"/>
 </p>
 
-| Area | What I work on |
-|---|---|
-| **AI / LLM** | orchestration, RAG, local inference, tool use, evaluation |
-| **Backend** | FastAPI, async APIs, PostgreSQL, Redis, WebSockets, SSE |
-| **Frontend** | Next.js, React, TypeScript, Tailwind, Flutter |
-| **Systems** | Rust, Tauri, Linux, SQLite, process execution |
-| **Security** | trust boundaries, input validation, SSRF defenses, sandboxing, secret hygiene |
-| **Engineering** | tests, CI/CD, static analysis, observability, architecture boundaries |
-
----
-
-## Featured Projects
-
-<p align="center">
-  <img src="./assets/projects.svg" width="100%" alt="Featured projects: Sherly AI, ZeroPhish, Luma, HackTrack and IdeaGPT"/>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 Sherly AI
-**Voice-first local developer orchestrator**
+**Local developer orchestrator**
 
-Natural-language developer workflows with deterministic intent routing, guarded command execution, diagnostics, patch previews, atomic file operations, local model orchestration, and persistent action history.
+Voice and text-driven developer workflows with deterministic intent routing, guarded execution, diagnostics, patch previews, atomic file operations, and local model orchestration.
+
+**Engineering signal**  
+Secure execution boundaries • local inference • diagnostics • rollback-oriented workflows
 
 **Stack:** Python • FastAPI • Ollama • PySide6
 
 [Repository →](https://github.com/Sarvadnya07/sherly)
 
-### 🛡️ ZeroPhish
-**AI-powered phishing detection and threat-forensics platform**
+</td>
+<td width="50%" valign="top">
 
-Multi-stage email and URL analysis combining browser heuristics, ML, threat intelligence, Gemini reasoning, Redis acceleration, SSE telemetry, SSRF defenses, and a Chrome MV3 extension.
+### 🛡️ ZeroPhish
+**AI-powered phishing detection platform**
+
+Multi-stage email and URL analysis combining heuristics, ML, threat intelligence, Gemini reasoning, Redis acceleration, SSE telemetry, and a Chrome MV3 extension.
+
+**Engineering signal**  
+Layered analysis • security controls • SSRF defenses • automated quality gates
 
 **Stack:** Python • FastAPI • Next.js • Gemini • Redis
 
 [Repository →](https://github.com/Sarvadnya07/ZeroPhish)
 
-### 📖 Luma
-**Local-first EPUB/PDF reader with resilient annotations**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Rust + Tauri + React desktop software focused on durable annotations, local storage, full-text search, typed IPC, and a capability-aware desktop boundary.
+### 📖 Luma
+**Local-first EPUB/PDF reader**
+
+Desktop reading software built around resilient annotations, local persistence, search, typed IPC, and a capability-aware native boundary.
+
+**Engineering signal**  
+Rust core • SQLite WAL • FTS5 • typed IPC • security boundary
 
 **Stack:** Rust • Tauri 2 • React • TypeScript • SQLite
 
 [Repository →](https://github.com/Sarvadnya07/Luma)
 
+</td>
+<td width="50%" valign="top">
+
 ### 🧩 HackTrack
 **Developer opportunity discovery ecosystem**
 
-A modular platform combining opportunity discovery, career matching, community workflows, recommendations, scraping, APIs, and infrastructure components.
+Platform combining opportunity discovery, career matching, community workflows, recommendations, scraping, APIs, and infrastructure components.
+
+**Engineering signal**  
+Platform architecture • APIs • recommendations • data pipelines
 
 **Stack:** FastAPI • Next.js • PostgreSQL • data pipelines
 
 [Repository →](https://github.com/Sarvadnya07/HackTrack)
 
-### 💡 IdeaGPT
-**AI technical co-founder for turning ideas into engineering plans**
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-A full-stack platform for idea analysis, architecture blueprints, technology recommendations, roadmaps, and structured technical outputs across multiple AI providers.
+### 💡 IdeaGPT
+**AI technical co-founder**
+
+Full-stack platform for idea analysis, architecture blueprints, technology recommendations, roadmaps, and structured technical outputs across multiple AI providers.
+
+**Engineering signal**  
+Provider-agnostic orchestration • typed contracts • tenant isolation • quality gates
 
 **Stack:** Next.js • FastAPI • PostgreSQL • multi-provider LLMs
 
 [Repository →](https://github.com/Sarvadnya07/IdeaGPT)
 
+</td>
+</tr>
+</table>
+
 ---
 
-## Tech Stack
+## Engineering Evidence
+
+I focus on the engineering around AI features, not only the model layer.
+
+| Area | Evidence represented across the flagship work |
+|---|---|
+| **Architecture** | explicit module boundaries, layered systems, typed contracts, trust boundaries |
+| **Security** | input validation, SSRF defenses, guarded execution, secret hygiene, threat-aware design |
+| **Testing** | regression, integration, architecture-boundary, failure-mode, type and build checks |
+| **CI/CD** | automated linting, type checking, test suites, security analysis, quality gates |
+| **Reliability** | rollback-oriented workflows, lifecycle handling, failure-path testing, resilient APIs |
+
+---
+
+## Core Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,rust,dart,java,cpp,bash,react,nextjs,tailwind,fastapi,postgres,sqlite,redis,docker,linux,git,githubactions&perline=10" alt="Technology stack"/>
+  <img src="https://skillicons.dev/icons?i=python,ts,rust,dart,react,nextjs,tailwind,fastapi,postgres,sqlite,redis,docker,linux,git,githubactions&perline=8" alt="Core technology stack"/>
 </p>
 
----
-
-## Engineering Principles
-
-**Security by default** · **Explicit trust boundaries** · **Deterministic behavior where possible** · **Tests as contracts** · **Evidence over hype** · **Architecture before abstraction**
-
-```text
-Problem
-  ↓
-System model
-  ↓
-Architecture + trust boundaries
-  ↓
-Implementation
-  ↓
-Tests + static analysis
-  ↓
-CI/CD verification
-  ↓
-Observe + benchmark
-  ↓
-Document trade-offs
-```
+| Domain | Core technologies |
+|---|---|
+| **Languages** | Python • TypeScript • Rust • Dart • SQL • Java • C++ • Bash |
+| **AI / LLM** | LLM APIs • local inference • RAG • orchestration • evaluation |
+| **Backend** | FastAPI • REST • WebSockets • SSE • PostgreSQL • Redis |
+| **Frontend** | React • Next.js • Tailwind CSS • Flutter |
+| **Systems** | Rust • Tauri • Linux • SQLite • Docker |
+| **Engineering** | Git • GitHub Actions • testing • static analysis • CI/CD |
 
 ---
 
-## GitHub
+## GitHub Activity
 
 <p align="center">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=Sarvadnya07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
@@ -155,13 +168,18 @@ Document trade-offs
 
 ---
 
-## Current Direction
+## Current Focus
 
 **Agentic AI** · **Secure local AI** · **Developer automation** · **Backend reliability** · **Applied ML** · **Systems engineering**
 
-## Open To
+---
 
-**AI Engineering Internships • Full-Stack AI Development • Developer Tools • Systems & Security Projects • Open Source Collaboration**
+## Contact
+
+For engineering work, internships, collaboration, or open-source projects:
+
+**Email:** [sarvadnyasonkambale0@gmail.com](mailto:sarvadnyasonkambale0@gmail.com)  
+**GitHub:** [github.com/Sarvadnya07](https://github.com/Sarvadnya07)
 
 ---
 
