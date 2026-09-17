@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Sarvadnya Sonkambale — AI Systems Engineer"/>
+  <img src="./assets/banner.svg" width="100%" alt="AI systems engineering banner"/>
 </p>
 
 <h1 align="center">Sarvadnya Sonkambale</h1>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Building practical AI products and engineering systems across <strong>LLM infrastructure, secure automation, backend systems, and developer tooling</strong>.
+  Building practical AI systems across <strong>LLM infrastructure, secure automation, backend engineering, and developer tooling</strong>.
 </p>
 
 <p align="center">
