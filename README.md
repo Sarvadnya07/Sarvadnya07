@@ -33,10 +33,6 @@ I am a Computer Engineering graduate and **B.E. Artificial Intelligence & Data S
 
 ## Flagship Projects
 
-<p align="center">
-  <img src="./assets/projects.svg" width="100%" alt="Five flagship engineering projects"/>
-</p>
-
 <table>
 <tr>
 <td width="50%" valign="top">
