@@ -1,22 +1,86 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 820" role="img" aria-labelledby="title desc">
-  <title id="title">Selected engineering projects</title>
-  <desc id="desc">Visual cards for Sherly AI, ZeroPhish, Luma, HackTrack and IdeaGPT.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 760" role="img" aria-labelledby="title desc">
+  <title id="title">Five flagship engineering projects</title>
+  <desc id="desc">Professional project overview for Sherly AI, ZeroPhish, Luma, HackTrack and IdeaGPT.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#090d16"/><stop offset="1" stop-color="#111827"/></linearGradient>
-    <linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#3b82f6"/></linearGradient>
-    <linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ef4444"/><stop offset="1" stop-color="#f59e0b"/></linearGradient>
-    <linearGradient id="c" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#06b6d4"/><stop offset="1" stop-color="#22c55e"/></linearGradient>
-    <linearGradient id="d" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f97316"/><stop offset="1" stop-color="#ec4899"/></linearGradient>
-    <linearGradient id="e" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0ea5e9"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080b12"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="line1" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8b5cf6"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+    <linearGradient id="line2" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ef4444"/><stop offset="1" stop-color="#f59e0b"/></linearGradient>
+    <linearGradient id="line3" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#06b6d4"/><stop offset="1" stop-color="#22c55e"/></linearGradient>
+    <linearGradient id="line4" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#f97316"/><stop offset="1" stop-color="#ec4899"/></linearGradient>
+    <linearGradient id="line5" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#3b82f6"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
   </defs>
-  <rect width="1400" height="820" rx="28" fill="url(#bg)"/>
-  <text x="70" y="75" fill="#f8fafc" font-size="34" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="700">SELECTED ENGINEERING WORK</text>
-  <text x="70" y="108" fill="#94a3b8" font-size="17" font-family="ui-monospace,monospace">AI systems · security · developer tooling · local-first software</text>
+
+  <rect width="1400" height="760" rx="26" fill="url(#bg)"/>
+  <text x="64" y="62" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="700">FLAGSHIP ENGINEERING PROJECTS</text>
+  <text x="64" y="94" fill="#94a3b8" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">AI systems · security · local-first software · developer infrastructure</text>
+
   <g font-family="Inter,Segoe UI,Arial,sans-serif">
-    <g transform="translate(60 145)"><rect width="610" height="250" rx="20" fill="#0b1220" stroke="#293548"/><rect width="610" height="6" rx="3" fill="url(#a)"/><circle cx="48" cy="52" r="24" fill="#18112e" stroke="#8b5cf6"/><text x="90" y="60" fill="#f8fafc" font-size="28" font-weight="700">Sherly AI</text><text x="90" y="89" fill="#a5b4fc" font-size="15">LOCAL DEVELOPER ORCHESTRATOR</text><text x="34" y="132" fill="#cbd5e1" font-size="16">voice / intent routing / guarded execution</text><text x="34" y="160" fill="#cbd5e1" font-size="16">patch previews / diagnostics / local inference</text><g transform="translate(34 190)"><rect width="130" height="34" rx="9" fill="#111827" stroke="#334155"/><text x="65" y="22" text-anchor="middle" fill="#e2e8f0" font-size="13">PYTHON</text><rect x="140" width="125" height="34" rx="9" fill="#111827" stroke="#334155"/><text x="202" y="22" text-anchor="middle" fill="#e2e8f0" font-size="13">OLLAMA</text><rect x="275" width="120" height="34" rx="9" fill="#111827" stroke="#334155"/><text x="335" y="22" text-anchor="middle" fill="#e2e8f0" font-size="13">FASTAPI</text></g></g>
-    <g transform="translate(730 145)"><rect width="610" height="250" rx="20" fill="#0b1220" stroke="#293548"/><rect width="610" height="6" rx="3" fill="url(#b)"/><circle cx="48" cy="52" r="24" fill="#321815" stroke="#ef4444"/><text x="90" y="60" fill="#f8fafc" font-size="28" font-weight="700">ZeroPhish</text><text x="90" y="89" fill="#fdba74" font-size="15">AI-POWERED PHISHING DETECTION</text><text x="34" y="132" fill="#cbd5e1" font-size="16">heuristics / ML / threat intelligence</text><text x="34" y="160" fill="#cbd5e1" font-size="16">Gemini analysis / Redis / SSE / browser extension</text><g transform="translate(34 190)"><rect width="135" height="34" rx="9" fill="#111827" stroke="#334155"/><text x="67" y="22" text-anchor="middle" fill="#e2e8f0" font-size="13">FASTAPI</text><rect x="145" width="125" height="34" rx="9" fill="#111827" stroke="#334155"/><text x="207" y="22" text-anchor="middle" fill="#e2e8f0" font-size="13">NEXT.JS</text><rect x="280" width="110" height="34" rx="9" fill="#111827" stroke="#334155"/><text x="335" y="22" text-anchor="middle" fill="#e2e8f0" font-size="13">REDIS</text></g></g>
-    <g transform="translate(60 425)"><rect width="400" height="310" rx="20" fill="#0b1220" stroke="#293548"/><rect width="400" height="6" rx="3" fill="url(#c)"/><circle cx="43" cy="51" r="23" fill="#0b252b" stroke="#22d3ee"/><text x="80" y="59" fill="#f8fafc" font-size="26" font-weight="700">Luma</text><text x="30" y="98" fill="#67e8f9" font-size="14">LOCAL-FIRST READER</text><text x="30" y="139" fill="#cbd5e1" font-size="15">EPUB / PDF</text><text x="30" y="168" fill="#cbd5e1" font-size="15">cryptographic annotations</text><text x="30" y="197" fill="#cbd5e1" font-size="15">Rust + Tauri + React</text><text x="30" y="226" fill="#94a3b8" font-size="14">SQLite WAL · FTS5 · typed IPC</text><rect x="30" y="254" width="120" height="32" rx="9" fill="#111827" stroke="#334155"/><text x="90" y="275" text-anchor="middle" fill="#e2e8f0" font-size="12">RUST</text><rect x="160" y="254" width="120" height="32" rx="9" fill="#111827" stroke="#334155"/><text x="220" y="275" text-anchor="middle" fill="#e2e8f0" font-size="12">TAURI</text></g>
-    <g transform="translate(500 425)"><rect width="400" height="310" rx="20" fill="#0b1220" stroke="#293548"/><rect width="400" height="6" rx="3" fill="url(#d)"/><circle cx="43" cy="51" r="23" fill="#31151f" stroke="#ec4899"/><text x="80" y="59" fill="#f8fafc" font-size="26" font-weight="700">HackTrack</text><text x="30" y="98" fill="#f9a8d4" font-size="14">OPPORTUNITY DISCOVERY ECOSYSTEM</text><text x="30" y="139" fill="#cbd5e1" font-size="15">career matching · community workflows</text><text x="30" y="168" fill="#cbd5e1" font-size="15">recommendations · scraping · APIs</text><text x="30" y="197" fill="#94a3b8" font-size="15">FastAPI · Next.js · data pipelines</text><text x="30" y="226" fill="#94a3b8" font-size="14">security-aware platform architecture</text><rect x="30" y="254" width="130" height="32" rx="9" fill="#111827" stroke="#334155"/><text x="95" y="275" text-anchor="middle" fill="#e2e8f0" font-size="12">FASTAPI</text></g>
-    <g transform="translate(940 425)"><rect width="400" height="310" rx="20" fill="#0b1220" stroke="#293548"/><rect width="400" height="6" rx="3" fill="url(#e)"/><circle cx="43" cy="51" r="23" fill="#111a31" stroke="#60a5fa"/><text x="80" y="59" fill="#f8fafc" font-size="26" font-weight="700">IdeaGPT</text><text x="30" y="98" fill="#93c5fd" font-size="14">AI TECHNICAL CO-FOUNDER</text><text x="30" y="139" fill="#cbd5e1" font-size="15">idea analysis · roadmaps · architecture</text><text x="30" y="168" fill="#cbd5e1" font-size="15">multi-provider AI orchestration</text><text x="30" y="197" fill="#94a3b8" font-size="15">Next.js · FastAPI · PostgreSQL</text><text x="30" y="226" fill="#94a3b8" font-size="14">typed contracts · tenant isolation</text><rect x="30" y="254" width="130" height="32" rx="9" fill="#111827" stroke="#334155"/><text x="95" y="275" text-anchor="middle" fill="#e2e8f0" font-size="12">NEXT.JS</text></g>
+    <g transform="translate(52 125)">
+      <rect width="634" height="245" rx="18" fill="#0b1220" stroke="#293548"/>
+      <rect width="634" height="5" rx="2.5" fill="url(#line1)"/>
+      <circle cx="42" cy="48" r="20" fill="#17112b" stroke="#8b5cf6"/>
+      <text x="78" y="55" fill="#f8fafc" font-size="25" font-weight="700">Sherly AI</text>
+      <text x="30" y="89" fill="#a5b4fc" font-family="ui-monospace,monospace" font-size="13">LOCAL DEVELOPER ORCHESTRATOR</text>
+      <text x="30" y="126" fill="#cbd5e1" font-size="15">Voice/text intent → policy checks → guarded execution</text>
+      <text x="30" y="151" fill="#94a3b8" font-size="14">Diagnostics, patch previews, rollback and local model routing</text>
+      <rect x="30" y="181" width="118" height="30" rx="8" fill="#111827" stroke="#334155"/><text x="89" y="201" text-anchor="middle" fill="#e2e8f0" font-size="12">PYTHON</text>
+      <rect x="158" y="181" width="118" height="30" rx="8" fill="#111827" stroke="#334155"/><text x="217" y="201" text-anchor="middle" fill="#e2e8f0" font-size="12">FASTAPI</text>
+      <rect x="286" y="181" width="118" height="30" rx="8" fill="#111827" stroke="#334155"/><text x="345" y="201" text-anchor="middle" fill="#e2e8f0" font-size="12">OLLAMA</text>
+    </g>
+
+    <g transform="translate(714 125)">
+      <rect width="634" height="245" rx="18" fill="#0b1220" stroke="#293548"/>
+      <rect width="634" height="5" rx="2.5" fill="url(#line2)"/>
+      <circle cx="42" cy="48" r="20" fill="#291513" stroke="#ef4444"/>
+      <text x="78" y="55" fill="#f8fafc" font-size="25" font-weight="700">ZeroPhish</text>
+      <text x="30" y="89" fill="#fdba74" font-family="ui-monospace,monospace" font-size="13">AI-POWERED PHISHING DETECTION</text>
+      <text x="30" y="126" fill="#cbd5e1" font-size="15">Chrome MV3 → heuristics → metadata / ML → Gemini</text>
+      <text x="30" y="151" fill="#94a3b8" font-size="14">Real-time dashboard, Redis acceleration and SSE telemetry</text>
+      <rect x="30" y="181" width="118" height="30" rx="8" fill="#111827" stroke="#334155"/><text x="89" y="201" text-anchor="middle" fill="#e2e8f0" font-size="12">FASTAPI</text>
+      <rect x="158" y="181" width="118" height="30" rx="8" fill="#111827" stroke="#334155"/><text x="217" y="201" text-anchor="middle" fill="#e2e8f0" font-size="12">NEXT.JS</text>
+      <rect x="286" y="181" width="118" height="30" rx="8" fill="#111827" stroke="#334155"/><text x="345" y="201" text-anchor="middle" fill="#e2e8f0" font-size="12">REDIS</text>
+    </g>
+
+    <g transform="translate(52 398)">
+      <rect width="410" height="302" rx="18" fill="#0b1220" stroke="#293548"/>
+      <rect width="410" height="5" rx="2.5" fill="url(#line3)"/>
+      <circle cx="42" cy="48" r="20" fill="#0a2328" stroke="#22d3ee"/>
+      <text x="78" y="55" fill="#f8fafc" font-size="25" font-weight="700">Luma</text>
+      <text x="30" y="89" fill="#67e8f9" font-family="ui-monospace,monospace" font-size="13">LOCAL-FIRST READER</text>
+      <text x="30" y="128" fill="#cbd5e1" font-size="15">EPUB / PDF with resilient annotations</text>
+      <text x="30" y="155" fill="#94a3b8" font-size="14">Cryptographic annotation integrity across reflow</text>
+      <text x="30" y="182" fill="#94a3b8" font-size="14">Rust core · SQLite WAL · FTS5 · typed IPC</text>
+      <rect x="30" y="226" width="112" height="30" rx="8" fill="#111827" stroke="#334155"/><text x="86" y="246" text-anchor="middle" fill="#e2e8f0" font-size="12">RUST</text>
+      <rect x="152" y="226" width="112" height="30" rx="8" fill="#111827" stroke="#334155"/><text x="208" y="246" text-anchor="middle" fill="#e2e8f0" font-size="12">TAURI</text>
+    </g>
+
+    <g transform="translate(495 398)">
+      <rect width="410" height="302" rx="18" fill="#0b1220" stroke="#293548"/>
+      <rect width="410" height="5" rx="2.5" fill="url(#line4)"/>
+      <circle cx="42" cy="48" r="20" fill="#2a1520" stroke="#ec4899"/>
+      <text x="78" y="55" fill="#f8fafc" font-size="25" font-weight="700">HackTrack</text>
+      <text x="30" y="89" fill="#f9a8d4" font-family="ui-monospace,monospace" font-size="13">DEVELOPER OPPORTUNITY PLATFORM</text>
+      <text x="30" y="128" fill="#cbd5e1" font-size="15">Opportunity discovery and career matching</text>
+      <text x="30" y="155" fill="#94a3b8" font-size="14">Community workflows, recommendations and scraping</text>
+      <text x="30" y="182" fill="#94a3b8" font-size="14">API-driven platform with security-aware boundaries</text>
+      <rect x="30" y="226" width="112" height="30" rx="8" fill="#111827" stroke="#334155"/><text x="86" y="246" text-anchor="middle" fill="#e2e8f0" font-size="12">FASTAPI</text>
+      <rect x="152" y="226" width="112" height="30" rx="8" fill="#111827" stroke="#334155"/><text x="208" y="246" text-anchor="middle" fill="#e2e8f0" font-size="12">NEXT.JS</text>
+    </g>
+
+    <g transform="translate(938 398)">
+      <rect width="410" height="302" rx="18" fill="#0b1220" stroke="#293548"/>
+      <rect width="410" height="5" rx="2.5" fill="url(#line5)"/>
+      <circle cx="42" cy="48" r="20" fill="#111a31" stroke="#60a5fa"/>
+      <text x="78" y="55" fill="#f8fafc" font-size="25" font-weight="700">IdeaGPT</text>
+      <text x="30" y="89" fill="#93c5fd" font-family="ui-monospace,monospace" font-size="13">AI TECHNICAL CO-FOUNDER</text>
+      <text x="30" y="128" fill="#cbd5e1" font-size="15">Idea analysis → architecture → roadmap</text>
+      <text x="30" y="155" fill="#94a3b8" font-size="14">Multi-provider orchestration with isolated workspaces</text>
+      <text x="30" y="182" fill="#94a3b8" font-size="14">Technical feasibility and implementation planning</text>
+      <rect x="30" y="226" width="112" height="30" rx="8" fill="#111827" stroke="#334155"/><text x="86" y="246" text-anchor="middle" fill="#e2e8f0" font-size="12">NEXT.JS</text>
+      <rect x="152" y="226" width="112" height="30" rx="8" fill="#111827" stroke="#334155"/><text x="208" y="246" text-anchor="middle" fill="#e2e8f0" font-size="12">FASTAPI</text>
+    </g>
   </g>
 </svg>
