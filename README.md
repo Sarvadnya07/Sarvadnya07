@@ -57,7 +57,7 @@ Desktop developer copilot combining voice/text input, deterministic routing, gua
 ### 🛡️ ZeroPhish
 **AI-powered phishing detection for Gmail**
 
-Three-tier threat detection spanning a Chrome MV3 extension, FastAPI analysis services, and a Next.js dashboard, combining heuristics, ML/metadata checks, Gemini reasoning, and real-time SSE telemetry.
+Three-tier threat detection spanning Chrome MV3, FastAPI analysis services, and a Next.js dashboard, combining heuristics, ML/metadata checks, Gemini reasoning, and real-time SSE telemetry.
 
 **Signal:** layered detection • threat intelligence • security controls • real-time analysis  
 **Stack:** Python • FastAPI • Next.js • Gemini • Redis • Chrome MV3
@@ -72,7 +72,7 @@ Three-tier threat detection spanning a Chrome MV3 extension, FastAPI analysis se
 ### 📖 Luma
 **Local-first EPUB/PDF reader**
 
-Rust + Tauri + React desktop reader with multi-signal annotation anchoring designed to preserve highlights and notes across document reflow and layout changes.
+Rust + Tauri + React desktop reader with resilient, multi-signal annotation anchoring designed to preserve highlights and notes across document reflow.
 
 **Signal:** Rust core • annotation integrity • SQLite WAL • FTS5 • typed IPC  
 **Stack:** Rust • Tauri 2 • React • TypeScript • SQLite
@@ -135,7 +135,7 @@ The flagship projects emphasize the engineering required to make AI features dep
 
 | Domain | Core technologies |
 |---|---|
-| **Languages** | Python • TypeScript • Rust • Dart • SQL • Java • C++ • Bash |
+| **Languages** | Python • TypeScript • Rust • Dart • SQL |
 | **AI / LLM** | LLM APIs • local inference • RAG • orchestration • evaluation |
 | **Backend** | FastAPI • REST • WebSockets • SSE • PostgreSQL • Redis |
 | **Frontend** | React • Next.js • Tailwind CSS • Flutter |
