@@ -44,9 +44,9 @@ I am a Computer Engineering graduate and **B.E. Artificial Intelligence & Data S
 ### 🤖 Sherly AI
 **Voice-first local developer orchestrator**
 
-A desktop-native developer copilot that combines voice and text input with deterministic command routing, guarded system execution, project diagnostics, self-healing workflows, patch previews, atomic backups, undo, and local Ollama model orchestration. fileciteturn87file0
+Desktop developer copilot combining voice/text input, deterministic routing, guarded execution, diagnostics, self-healing workflows, patch previews, atomic backups, undo, and local Ollama models.
 
-**Signal:** secure execution • deterministic routing • diagnostics • patch/rollback workflow  
+**Signal:** secure execution • deterministic routing • diagnostics • rollback workflows  
 **Stack:** Python • FastAPI • WebSockets • Ollama • React/Vite • SQLite
 
 [Repository →](https://github.com/Sarvadnya07/sherly)
@@ -57,9 +57,9 @@ A desktop-native developer copilot that combines voice and text input with deter
 ### 🛡️ ZeroPhish
 **AI-powered phishing detection for Gmail**
 
-A three-tier threat-detection platform using a Chrome MV3 extension, FastAPI analysis services, and a Next.js dashboard. Analysis combines browser heuristics, metadata/ML checks, and Gemini reasoning with real-time SSE visualization. fileciteturn88file0
+Three-tier threat detection spanning a Chrome MV3 extension, FastAPI analysis services, and a Next.js dashboard, combining heuristics, ML/metadata checks, Gemini reasoning, and real-time SSE telemetry.
 
-**Signal:** layered detection • threat intelligence • security controls • real-time telemetry  
+**Signal:** layered detection • threat intelligence • security controls • real-time analysis  
 **Stack:** Python • FastAPI • Next.js • Gemini • Redis • Chrome MV3
 
 [Repository →](https://github.com/Sarvadnya07/ZeroPhish)
@@ -72,9 +72,9 @@ A three-tier threat-detection platform using a Chrome MV3 extension, FastAPI ana
 ### 📖 Luma
 **Local-first EPUB/PDF reader**
 
-Desktop reading software built with Rust, Tauri, React, and TypeScript. Its annotation system uses multi-signal anchoring designed to keep highlights and notes resilient across document reflow and layout changes. fileciteturn92file0
+Rust + Tauri + React desktop reader with multi-signal annotation anchoring designed to preserve highlights and notes across document reflow and layout changes.
 
-**Signal:** Rust core • cryptographic annotation integrity • SQLite WAL • FTS5 • typed IPC  
+**Signal:** Rust core • annotation integrity • SQLite WAL • FTS5 • typed IPC  
 **Stack:** Rust • Tauri 2 • React • TypeScript • SQLite
 
 [Repository →](https://github.com/Sarvadnya07/Luma)
@@ -83,9 +83,9 @@ Desktop reading software built with Rust, Tauri, React, and TypeScript. Its anno
 <td width="50%" valign="top">
 
 ### 🧩 HackTrack
-**Developer opportunity matching platform**
+**Developer opportunity discovery platform**
 
-A developer-focused platform combining opportunity discovery, career tracking, project collaboration, skill trajectory mapping, recommendations, community workflows, and a Chrome scraper extension. fileciteturn90file0
+Platform for opportunity discovery, career tracking, project collaboration, skill mapping, recommendations, community workflows, and browser-based opportunity collection.
 
 **Signal:** platform architecture • recommendations • data pipelines • API workflows  
 **Stack:** FastAPI • Next.js • PostgreSQL • scraping
@@ -98,9 +98,9 @@ A developer-focused platform combining opportunity discovery, career tracking, p
 <td colspan="2" valign="top">
 
 ### 💡 IdeaGPT
-**AI technical co-founder for turning ideas into execution plans**
+**AI technical co-founder**
 
-An AI SaaS platform for technical idea analysis, feasibility evaluation, roadmap generation, architecture planning, and technology recommendations, with provider-agnostic orchestration across multiple AI providers. fileciteturn91file0
+AI SaaS platform for technical idea analysis, feasibility evaluation, architecture planning, roadmap generation, and technology recommendations across multiple AI providers.
 
 **Signal:** multi-provider orchestration • isolated workspaces • architecture planning • structured outputs  
 **Stack:** Next.js • FastAPI • TypeScript • PostgreSQL • Turborepo
@@ -117,7 +117,7 @@ An AI SaaS platform for technical idea analysis, feasibility evaluation, roadmap
 
 The flagship projects emphasize the engineering required to make AI features dependable in real applications.
 
-| Area | Evidence across the portfolio |
+| Area | Evidence |
 |---|---|
 | **Architecture** | explicit module boundaries, layered systems, typed contracts, trust boundaries |
 | **Security** | input validation, SSRF defenses, guarded execution, secret hygiene |
