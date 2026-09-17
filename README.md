@@ -56,6 +56,10 @@ I build software at the intersection of **AI, application engineering, security,
 ### 🤖 Sherly AI
 **Voice-first local developer orchestrator**
 
+<p align="center">
+  <img src="./assets/sherly-demo.svg" width="100%" alt="Animated Sherly AI workflow demo"/>
+</p>
+
 Natural-language developer workflows with deterministic intent routing, guarded command execution, diagnostics, patch previews, atomic file operations, local model orchestration, and persistent action history.
 
 **Stack:** Python • FastAPI • Ollama • PySide6
@@ -64,6 +68,10 @@ Natural-language developer workflows with deterministic intent routing, guarded 
 
 ### 🛡️ ZeroPhish
 **AI-powered phishing detection and threat-forensics platform**
+
+<p align="center">
+  <img src="./assets/zerophish-demo.svg" width="100%" alt="Animated ZeroPhish phishing detection workflow demo"/>
+</p>
 
 Multi-stage email and URL analysis combining browser heuristics, ML, threat intelligence, Gemini reasoning, Redis acceleration, SSE telemetry, SSRF defenses, and a Chrome MV3 extension.
 
