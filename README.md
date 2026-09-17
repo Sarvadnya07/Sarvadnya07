@@ -26,7 +26,6 @@ I am a Computer Engineering graduate and **B.E. Artificial Intelligence & Data S
 - 🎓 B.E. Artificial Intelligence & Data Science — Class of 2028
 - 📜 Diploma in Computer Engineering — **82.69%**
 - 🔧 Focus: **AI/LLM systems, secure automation, developer tools, backend engineering, and systems design**
-- 🛠️ Primary technologies: **Python, TypeScript, Rust, Dart, SQL, Linux, React, Next.js, FastAPI, PostgreSQL**
 
 > **Build the system. Understand the system. Verify the system.**
 
@@ -43,12 +42,12 @@ I am a Computer Engineering graduate and **B.E. Artificial Intelligence & Data S
 <td width="50%" valign="top">
 
 ### 🤖 Sherly AI
-**Local developer orchestrator**
+**Voice-first local developer orchestrator**
 
-Voice and text-driven developer workflows with deterministic intent routing, guarded execution, diagnostics, patch previews, atomic file operations, and local model orchestration.
+A desktop-native developer copilot that combines voice and text input with deterministic command routing, guarded system execution, project diagnostics, self-healing workflows, patch previews, atomic backups, undo, and local Ollama model orchestration. fileciteturn87file0
 
-**Signal:** Secure execution • local inference • diagnostics • rollback-oriented workflows  
-**Stack:** Python • FastAPI • Ollama • PySide6
+**Signal:** secure execution • deterministic routing • diagnostics • patch/rollback workflow  
+**Stack:** Python • FastAPI • WebSockets • Ollama • React/Vite • SQLite
 
 [Repository →](https://github.com/Sarvadnya07/sherly)
 
@@ -56,12 +55,12 @@ Voice and text-driven developer workflows with deterministic intent routing, gua
 <td width="50%" valign="top">
 
 ### 🛡️ ZeroPhish
-**AI-powered phishing detection platform**
+**AI-powered phishing detection for Gmail**
 
-Multi-stage email and URL analysis combining heuristics, ML, threat intelligence, Gemini reasoning, Redis acceleration, SSE telemetry, and a Chrome MV3 extension.
+A three-tier threat-detection platform using a Chrome MV3 extension, FastAPI analysis services, and a Next.js dashboard. Analysis combines browser heuristics, metadata/ML checks, and Gemini reasoning with real-time SSE visualization. fileciteturn88file0
 
-**Signal:** Layered analysis • security controls • SSRF defenses • automated quality gates  
-**Stack:** Python • FastAPI • Next.js • Gemini • Redis
+**Signal:** layered detection • threat intelligence • security controls • real-time telemetry  
+**Stack:** Python • FastAPI • Next.js • Gemini • Redis • Chrome MV3
 
 [Repository →](https://github.com/Sarvadnya07/ZeroPhish)
 
@@ -73,9 +72,9 @@ Multi-stage email and URL analysis combining heuristics, ML, threat intelligence
 ### 📖 Luma
 **Local-first EPUB/PDF reader**
 
-Desktop reading software built around resilient annotations, local persistence, search, typed IPC, and a capability-aware native boundary.
+Desktop reading software built with Rust, Tauri, React, and TypeScript. Its annotation system uses multi-signal anchoring designed to keep highlights and notes resilient across document reflow and layout changes. fileciteturn92file0
 
-**Signal:** Rust core • SQLite WAL • FTS5 • typed IPC • security boundary  
+**Signal:** Rust core • cryptographic annotation integrity • SQLite WAL • FTS5 • typed IPC  
 **Stack:** Rust • Tauri 2 • React • TypeScript • SQLite
 
 [Repository →](https://github.com/Sarvadnya07/Luma)
@@ -84,12 +83,12 @@ Desktop reading software built around resilient annotations, local persistence, 
 <td width="50%" valign="top">
 
 ### 🧩 HackTrack
-**Developer opportunity discovery ecosystem**
+**Developer opportunity matching platform**
 
-Platform combining opportunity discovery, career matching, community workflows, recommendations, scraping, APIs, and infrastructure components.
+A developer-focused platform combining opportunity discovery, career tracking, project collaboration, skill trajectory mapping, recommendations, community workflows, and a Chrome scraper extension. fileciteturn90file0
 
-**Signal:** Platform architecture • APIs • recommendations • data pipelines  
-**Stack:** FastAPI • Next.js • PostgreSQL • data pipelines
+**Signal:** platform architecture • recommendations • data pipelines • API workflows  
+**Stack:** FastAPI • Next.js • PostgreSQL • scraping
 
 [Repository →](https://github.com/Sarvadnya07/HackTrack)
 
@@ -99,12 +98,12 @@ Platform combining opportunity discovery, career matching, community workflows, 
 <td colspan="2" valign="top">
 
 ### 💡 IdeaGPT
-**AI technical co-founder**
+**AI technical co-founder for turning ideas into execution plans**
 
-Full-stack platform for idea analysis, architecture blueprints, technology recommendations, roadmaps, and structured technical outputs across multiple AI providers.
+An AI SaaS platform for technical idea analysis, feasibility evaluation, roadmap generation, architecture planning, and technology recommendations, with provider-agnostic orchestration across multiple AI providers. fileciteturn91file0
 
-**Signal:** Provider-agnostic orchestration • typed contracts • tenant isolation • quality gates  
-**Stack:** Next.js • FastAPI • PostgreSQL • multi-provider LLMs
+**Signal:** multi-provider orchestration • isolated workspaces • architecture planning • structured outputs  
+**Stack:** Next.js • FastAPI • TypeScript • PostgreSQL • Turborepo
 
 [Repository →](https://github.com/Sarvadnya07/IdeaGPT)
 
@@ -116,15 +115,15 @@ Full-stack platform for idea analysis, architecture blueprints, technology recom
 
 ## Engineering Evidence
 
-The flagship projects emphasize the engineering around AI features, not only the model layer.
+The flagship projects emphasize the engineering required to make AI features dependable in real applications.
 
-| Area | Evidence |
+| Area | Evidence across the portfolio |
 |---|---|
-| **Architecture** | module boundaries, layered systems, typed contracts, trust boundaries |
+| **Architecture** | explicit module boundaries, layered systems, typed contracts, trust boundaries |
 | **Security** | input validation, SSRF defenses, guarded execution, secret hygiene |
 | **Testing** | regression, integration, architecture-boundary, failure-mode, type and build checks |
 | **CI/CD** | linting, type checking, tests, security analysis, quality gates |
-| **Reliability** | rollback-oriented workflows, lifecycle handling, failure-path testing |
+| **Reliability** | rollback-oriented workflows, lifecycle handling, resilient APIs, failure-path testing |
 
 ---
 
