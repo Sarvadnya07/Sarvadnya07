@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+<title id="title">Sherly AI animated demo</title><desc id="desc">Animated terminal-style Sherly AI workflow from voice intent to guarded execution and completion.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070b14"/><stop offset="1" stop-color="#14102a"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8b5cf6"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="700" rx="28" fill="url(#bg)"/>
+<rect x="36" y="36" width="1128" height="628" rx="22" fill="#090f1d" stroke="#273449"/>
+<circle cx="70" cy="72" r="7" fill="#ef4444"/><circle cx="94" cy="72" r="7" fill="#f59e0b"/><circle cx="118" cy="72" r="7" fill="#22c55e"/>
+<text x="155" y="80" fill="#94a3b8" font-family="ui-monospace,monospace" font-size="18">sherly — local developer orchestrator</text>
+<text x="78" y="145" fill="#c4b5fd" font-family="ui-monospace,monospace" font-size="16">VOICE INPUT</text>
+<rect x="72" y="165" width="1056" height="76" rx="14" fill="#111827" stroke="#374151"/>
+<text x="96" y="212" fill="#f8fafc" font-family="ui-monospace,monospace" font-size="23">&gt; "Fix the failing API test and show me the patch."</text>
+<g>
+ <text x="78" y="290" fill="#93c5fd" font-family="ui-monospace,monospace" font-size="16">INTENT ROUTER</text>
+ <rect x="72" y="308" width="300" height="62" rx="13" fill="#0f172a" stroke="#3b82f6"/>
+ <text x="94" y="347" fill="#dbeafe" font-family="ui-monospace,monospace" font-size="18">diagnose → patch</text>
+ <text x="410" y="290" fill="#c4b5fd" font-family="ui-monospace,monospace" font-size="16">SAFETY GATE</text>
+ <rect x="404" y="308" width="300" height="62" rx="13" fill="#0f172a" stroke="#8b5cf6"/>
+ <text x="430" y="347" fill="#ede9fe" font-family="ui-monospace,monospace" font-size="18">SAFE → CONFIRM</text>
+ <text x="742" y="290" fill="#86efac" font-family="ui-monospace,monospace" font-size="16">WORKSPACE</text>
+ <rect x="736" y="308" width="392" height="62" rx="13" fill="#0f172a" stroke="#22c55e"/>
+ <text x="762" y="347" fill="#dcfce7" font-family="ui-monospace,monospace" font-size="18">tests / diff / undo</text>
+</g>
+<path d="M160 430 H1040" stroke="#273449" stroke-width="2"/>
+<circle cx="160" cy="430" r="7" fill="#8b5cf6"><animate attributeName="cx" values="160;1040;160" dur="4s" repeatCount="indefinite"/></circle>
+<text x="82" y="486" fill="#64748b" font-family="ui-monospace,monospace" font-size="15">ACTION LOG</text>
+<g font-family="ui-monospace,monospace" font-size="17">
+ <text x="82" y="525" fill="#94a3b8">[01]</text><text x="136" y="525" fill="#cbd5e1">Inspect failing test</text><text x="1020" y="525" text-anchor="end" fill="#60a5fa">done</text>
+ <text x="82" y="560" fill="#94a3b8">[02]</text><text x="136" y="560" fill="#cbd5e1">Generate constrained patch</text><text x="1020" y="560" text-anchor="end" fill="#a78bfa">preview</text>
+ <text x="82" y="595" fill="#94a3b8">[03]</text><text x="136" y="595" fill="#cbd5e1">Run regression + rollback checkpoint</text><text x="1020" y="595" text-anchor="end" fill="#4ade80">verified</text>
+</g>
+<rect x="82" y="620" width="1036" height="3" rx="2" fill="url(#accent)">
+ <animate attributeName="opacity" values="0.35;1;0.35" dur="2s" repeatCount="indefinite"/>
+</rect>
+</svg>
