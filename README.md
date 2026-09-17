@@ -1,148 +1,165 @@
-<p align="center">
-  <img src="banner.png" width="100%" alt="Profile Banner"/>
-</p>
-
-<h1 align="center">Sarvadnya Sonkambale</h1>
-
-<p align="center">
-<b>AI Systems Engineer • Full-Stack Architect • Linux User</b>
-</p>
-
-<p align="center">
-Designing production-grade AI systems with <b>secure execution layers</b> and <b>autonomous agent pipelines</b>.
-</p>
-
-<p align="center">
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Sarvadnya07">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
-## 🧠 About
-
-- B.E — Artificial Intelligence & Data Science (2028)  
-- Diploma — Computer Engineering (82.69%)  
-- Focus: **LLM systems, secure execution, autonomous pipelines**
-
-> AI is the engine.  
-> System architecture is the chassis.  
-> Without security and scalability, AI remains a demo.
-
----
-
-## ⚙️ Systems Focus
-- LLM orchestration & RAG pipelines  
-- Secure execution layers (sandboxing, validation)  
-- Autonomous multi-agent workflows  
-
----
-
-## 🚀 Projects
-
-### 👩‍💻 Sherly AI — Autonomous Dev Orchestrator
-
-[View Project](https://github.com/Sarvadnya07/sherly)
-
-- Voice-first local AI developer orchestrator with deterministic command routing
-- 3-tier safety firewall — SAFE / CONFIRM / DANGEROUS
-- Self-healing development loop with **RAG + AST-based patching**
-- Persistent semantic project memory with **ChromaDB**
-- Docker-isolated execution, atomic file operations & **one-click undo**
-- Multi-agent orchestration — **Coder / System / Browser**
-- **214 automated tests passing** with cross-version CI
-
-**Stack:** Python • Ollama • faster-whisper • ChromaDB • Docker • PySide6
-
----
-
-### 🛡️ ZeroPhish — AI Phishing Detection System
-
-[View Project](https://github.com/Sarvadnya07/ZeroPhish)
-
-- Real-time **3-tier detection** — Heuristics → DistilBERT → Gemini
-- **OSINT analysis:** WHOIS, typosquatting & redirect tracing
-- **~1.5–3.5s full scan latency • 97%+ ML accuracy**
-- Redis speed layer with **<10ms cache hits**
-- Circuit-breaker architecture with graceful AI fallback
-- Real-time **SSE threat dashboard** with forensic insights
-- Vision-ready phishing & impersonation detection pipeline
-
-**Stack:** FastAPI • DistilBERT • Gemini • Redis • Next.js  
-
----
-
-## 🧰 Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python) ![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart) ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk) ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus) |
-| **AI / Data** | ![Gemini](https://img.shields.io/badge/Gemini%20API-black?style=for-the-badge) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-black?style=for-the-badge) ![LLM Orchestration](https://img.shields.io/badge/LLM%20Systems-black?style=for-the-badge) |
-| **Development** | ![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter) ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react) ![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase) |
-| **Infrastructure** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql) ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git) ![Linux](https://img.shields.io/badge/Arch%20Linux-black?style=for-the-badge&logo=archlinux) ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash) |
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Sarvadnya07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sarvadnya07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+# Sarvadnya Sonkambale
+
+### AI Engineer • Full-Stack Developer • Systems Builder
+
+Building practical AI systems, developer tools, and security-focused software with an emphasis on **architecture, reliability, and secure execution**.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Sarvadnya07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sarvadnya07)
+
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sarvadnya07&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+---
+
+## About
+
+I am a Computer Engineering graduate and **B.E. Artificial Intelligence & Data Science (2028)** student focused on building software that moves beyond demos into well-structured, testable systems.
+
+- Diploma in Computer Engineering — **82.69%**
+- Focus areas: **AI/LLM systems, full-stack engineering, developer tooling, security, and systems architecture**
+- Comfortable across **Python, TypeScript, Rust, Dart, SQL, Linux, APIs, databases, and cloud/dev tooling**
+- Interested in **AI engineering, full-stack AI development, developer infrastructure, and security-aware systems**
+
+> **Build the system. Understand the system. Verify the system.**
 
 ---
 
-## 🔥 Contribution Streak
+## Engineering Focus
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarvadnya07&theme=dark&hide_border=true&background=000000"/>
-</p>
+```text
+AI & LLM Systems      → orchestration, local inference, RAG, evaluation
+Backend Engineering   → FastAPI, APIs, async systems, PostgreSQL, Redis
+Frontend Engineering  → Next.js, React, TypeScript, Tailwind
+Systems               → Rust, Tauri, Linux, SQLite, process execution
+Security              → threat modeling, input validation, SSRF, sandboxing
+Quality               → testing, CI/CD, static analysis, observability
+```
 
----
+### Engineering Principles
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarvadnya07&theme=github-dark&bg_color=000000&hide_border=true"/>
-</p>
-
----
-
-## 🎓 Education
-
-- B.E — Artificial Intelligence & Data Science (2028)  
-- Diploma — Computer Engineering  
+- **Security by default** — treat execution, secrets, files, and external inputs as trust boundaries.
+- **Deterministic where possible** — use predictable routing and explicit contracts before reaching for an LLM.
+- **Tests are contracts** — regression, architecture, failure-mode, and integration tests protect behavior.
+- **Evidence over hype** — benchmark claims, document assumptions, and keep known debt visible.
+- **Architecture before abstraction** — boundaries, ownership, and failure modes matter more than framework count.
 
 ---
 
-## 🌍 Currently Learning
+## Selected Engineering Work
 
-- Agentic AI architectures  
-- Secure LLM deployment  
-- Distributed systems design  
-- Applied ML mathematics  
+### 🛡️ ZeroPhish
+**AI-powered phishing detection and threat-forensics platform**
 
----
+Multi-stage email and URL analysis combining browser heuristics, ML, threat intelligence, Gemini reasoning, Redis acceleration, SSE telemetry, SSRF defenses, and a Chrome MV3 extension.
 
-## 🤝 Open To
+**Highlights:** layered analysis • security controls • resilient backend architecture • automated quality gates
 
-- AI Engineering Internships  
-- Open Source Collaboration  
-- Systems & Architecture Projects  
+[Repository →](https://github.com/Sarvadnya07/ZeroPhish)
 
 ---
 
-<p align="center">
-<b>Status:</b> Actively building
-</p>
+### 🤖 Sherly AI
+**Voice-first local developer orchestrator**
+
+A local AI development system connecting natural-language intent to deterministic routing, guarded command execution, patch previews, atomic file operations, project diagnostics, local model orchestration, and specialized agents.
+
+**Highlights:** zero-trust execution • human approval gates • self-healing workflow • local inference • persistent action history
+
+[Repository →](https://github.com/Sarvadnya07/sherly)
+
+---
+
+### 📖 Luma
+**Local-first EPUB/PDF reader built around resilient annotations**
+
+A desktop reading application using Rust + Tauri + React with cryptographically anchored annotations designed to survive document reflow and layout changes.
+
+**Highlights:** memory-safe native core • SQLite WAL • FTS5 search • typed IPC • capability-secured desktop boundary
+
+[Repository →](https://github.com/Sarvadnya07/Luma)
+
+---
+
+### 🧩 HackTrack
+**Developer opportunity discovery and career platform**
+
+A modular platform combining opportunity discovery, career matching, community workflows, recommendation systems, scraping, and infrastructure components.
+
+**Highlights:** decoupled architecture • FastAPI backend • Next.js frontend • recommendation layer • security-aware APIs
+
+[Repository →](https://github.com/Sarvadnya07/HackTrack)
+
+---
+
+### 💡 IdeaGPT
+**AI technical co-founder for turning ideas into engineering plans**
+
+A full-stack platform for evaluating product ideas, generating architecture blueprints, recommending technology stacks, creating roadmaps, and exporting structured technical reports.
+
+**Highlights:** provider-agnostic AI orchestration • multi-tenant data isolation • PostgreSQL • typed contracts • automated quality gates
+
+[Repository →](https://github.com/Sarvadnya07/IdeaGPT)
+
+---
+
+## Technical Stack
+
+| Area | Technologies |
+|---|---|
+| **Languages** | Python • TypeScript • Rust • Dart • Java • C++ • SQL • Bash |
+| **AI / ML** | LLM APIs • local LLMs • RAG • model orchestration • evaluation |
+| **Frontend** | Next.js • React • Tailwind CSS • Flutter |
+| **Backend** | FastAPI • REST • WebSockets • SSE • async Python |
+| **Data** | PostgreSQL • SQLite • Redis • SQLAlchemy |
+| **Systems** | Linux • Tauri • Docker • process execution • local inference |
+| **Engineering** | Git • GitHub Actions • CI/CD • testing • static analysis • observability |
+| **Security** | input validation • SSRF defenses • secret hygiene • sandboxing • threat-aware execution |
+
+---
+
+## How I Build
+
+```text
+Problem
+  ↓
+System model
+  ↓
+Architecture & trust boundaries
+  ↓
+Implementation
+  ↓
+Tests + static analysis
+  ↓
+CI/CD verification
+  ↓
+Benchmark / observe
+  ↓
+Document trade-offs + technical debt
+```
+
+I prefer **small, verifiable increments** over large rewrites and aim to leave every system easier to understand, test, secure, and maintain than I found it.
+
+---
+
+## Current Direction
+
+- Agentic AI systems with reliable tool execution
+- Secure local AI and developer automation
+- Backend reliability and distributed-system fundamentals
+- Applied machine learning and data engineering
+- Developer tooling, automation, and engineering workflows
+
+---
+
+## Open To
+
+**AI Engineering Internships • Full-Stack AI Development • Developer Tools • Systems & Security Projects • Open Source Collaboration**
+
+---
+
+<div align="center">
+
+### Build systems that can be trusted.
+
+</div>
