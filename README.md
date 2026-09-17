@@ -115,15 +115,14 @@ AI SaaS platform for technical idea analysis, feasibility evaluation, architectu
 
 ## Engineering Evidence
 
-The flagship projects emphasize the engineering required to make AI features dependable in real applications.
+I focus on the engineering layers that make AI systems dependable in practice.
 
 | Area | Evidence |
 |---|---|
-| **Architecture** | explicit module boundaries, layered systems, typed contracts, trust boundaries |
-| **Security** | input validation, SSRF defenses, guarded execution, secret hygiene |
-| **Testing** | regression, integration, architecture-boundary, failure-mode, type and build checks |
-| **CI/CD** | linting, type checking, tests, security analysis, quality gates |
-| **Reliability** | rollback-oriented workflows, lifecycle handling, resilient APIs, failure-path testing |
+| **Architecture** | module boundaries • layered design • typed contracts • trust boundaries |
+| **Security** | input validation • SSRF defenses • guarded execution • secret hygiene |
+| **Quality** | regression & integration tests • failure-mode coverage • type/build checks |
+| **Delivery** | CI/CD gates • linting • static analysis • security checks • reliability workflows |
 
 ---
 
