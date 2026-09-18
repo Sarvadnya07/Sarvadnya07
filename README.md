@@ -17,9 +17,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:sarvadnyasonkambale0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/Sarvadnya07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://sarvadnya-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:sarvadnyasonkambale0@gmail.com"><img height="30" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/Sarvadnya07"><img height="30" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;&nbsp;
+  <a href="https://sarvadnya-portfolio.vercel.app/"><img height="30" src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
@@ -139,7 +139,7 @@ I focus on the engineering layers that make AI systems dependable in practice.
 | **AI / LLM** | LLM APIs • local inference • RAG • orchestration • evaluation |
 | **Backend** | FastAPI • REST • WebSockets • SSE • PostgreSQL • Redis |
 | **Frontend** | React • Next.js • Tailwind CSS • Flutter |
-| **Systems** | Rust • Tauri • Linux • SQLite • Docker |
+| **Systems** | Tauri • Linux • SQLite • Docker |
 | **Engineering** | Git • GitHub Actions • testing • static analysis • CI/CD |
 
 ---
