@@ -70,18 +70,6 @@ Three-part security system spanning Chrome MV3, FastAPI services, and a Next.js 
 <tr>
 <td width="50%" valign="top">
 
-### 📖 Luma
-**Local-first EPUB/PDF reader**
-
-Rust/Tauri/React desktop reader with multi-signal annotation anchoring designed to keep highlights and notes stable across document reflow.
-
-**Signal:** Rust core • annotation integrity • resilient persistence  
-**Stack:** Rust • Tauri 2 • React • TypeScript • SQLite
-
-[Repository →](https://github.com/Sarvadnya07/Luma)
-
-</td>
-<td width="50%" valign="top">
 
 ### 🧩 HackTrack
 **Developer opportunity discovery platform**
