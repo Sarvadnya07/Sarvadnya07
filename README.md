@@ -82,8 +82,6 @@ Platform for opportunity discovery, career tracking, project collaboration, skil
 [Repository →](https://github.com/Sarvadnya07/HackTrack)
 
 </td>
-</tr>
-<tr>
 <td colspan="2" valign="top">
 
 ### 💡 IdeaGPT
