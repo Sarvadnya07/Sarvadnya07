@@ -133,8 +133,8 @@ I focus on the engineering layers that make AI systems dependable in practice.
 ## GitHub Activity
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.shion.dev/api?username=Sarvadnya07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="175" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sarvadnya07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img height="175" src="https://github-stats-extended.vercel.app/api?username=Sarvadnya07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sarvadnya07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 </p>
 
 <p align="center">
